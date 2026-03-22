@@ -1,3 +1,6 @@
+data/*
+stimuli_selection/pkls/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
