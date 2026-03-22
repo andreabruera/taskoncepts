@@ -674,6 +674,57 @@ pyplot.savefig(
                'reduced_heatmap.jpg'),
                pad_inches=0,
                )
+
+### reduced violinplots
+
+fig, ax = pyplot.subplots(
+                          figsize=(20, 10),
+                          )
+ax.violinplot(
+              plot_mtrx.T,
+              positions=[_-.1 for _ in range(12)],
+              showextrema=False,
+              side='low',
+              )
+ax.scatter(
+           numpy.array([[_+0.1+(random.randrange(-10, 10)*0.01) for __ in range(64)] for _ in range(12)]),
+           plot_mtrx,
+           color='lavender',
+           alpha=0.5,
+           linewidth=0.5,
+           edgecolor='black',
+           )
+ax.scatter(
+           [_-.1 for _ in range(12)],
+           numpy.average(plot_mtrx, axis=1),
+           marker='D',
+           s=100,
+           linewidth=2,
+           edgecolor='white',
+           )
+pyplot.hlines(
+              y=[0, 1, 2, 3, 4, 5, 6],
+              xmin=-.5,
+              xmax=11.5,
+              linestyle='dashed',
+              color='silver',
+              alpha=0.5,
+              )
+pyplot.xticks(ticks=range(12), labels=reduced, fontsize=15, fontweight='bold')
+pyplot.ylabel(
+              'Average rating',
+              fontsize=15,
+              fontweight='bold',
+              )
+
+ax.spines[['right', 'bottom', 'top']].set_visible(False)
+pyplot.tight_layout()
+pyplot.savefig(
+               os.path.join('plots', 'norms_selected', 'reduced_dims',
+               'reduced_violinplots_dims.jpg'),
+               pad_inches=0,
+               )
+
 t_sne = manifold.TSNE(
     n_components=2,
     perplexity=8,
