@@ -75,8 +75,8 @@ for sub in range(41):
         fold = os.path.join('randomized_exp_per_sub', sub_bids, run_bids)
         os.makedirs(fold, exist_ok=True)
         with open(os.path.join(fold, '{}_{}_dimension-question.tsv'.format(sub_bids, run_bids)), 'w') as o:
-            o.write('{} {} {}\n'.format(dim, ques, triggers_dims[tuple(dq)]))
+            o.write('{}\t{}\t{}\n'.format(dim, ques, triggers_dims[tuple(dq)]))
         with open(os.path.join(fold, '{}_{}_words.tsv'.format(sub_bids, run_bids)), 'w') as o:
             for w in run_words:
-                o.write('{} {}\n'.format(w, triggers_nouns[w]))
+                o.write('{}\t{}\n'.format(w, triggers_nouns[w]))
             o.write('\n')
