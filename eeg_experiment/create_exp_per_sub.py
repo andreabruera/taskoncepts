@@ -71,12 +71,15 @@ for sub in range(41):
         run_bids = 'run-{:02}'.format(run+1)
         dim = dq[0]
         ques = dq[1]
+        keys = '[1=niedrig      2=mittel      3=hoch]' if run%2==0 else '[1=hoch      2=mittel      3=niedrig]'
         run_words = random.sample(words, k=len(words))
         fold = os.path.join('randomized_exp_per_sub', sub_bids, run_bids)
         os.makedirs(fold, exist_ok=True)
         with open(os.path.join(fold, '{}_{}_dimension-question.tsv'.format(sub_bids, run_bids)), 'w') as o:
-            o.write('{}\t{}\t{}\n'.format(dim, ques, triggers_dims[tuple(dq)]))
+            o.write('{}\t{}\t{}\t{}\n'.format(dim, ques, keys, triggers_dims[tuple(dq)]))
         with open(os.path.join(fold, '{}_{}_words.tsv'.format(sub_bids, run_bids)), 'w') as o:
             for w in run_words:
                 o.write('{}\t{}\n'.format(w, triggers_nouns[w]))
             o.write('\n')
+        fold = os.path.join('experiment_logs', sub_bids, run_bids)
+        os.makedirs(fold, exist_ok=True)
