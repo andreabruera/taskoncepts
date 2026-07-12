@@ -64,6 +64,9 @@ print(len(words))
 triggers_nouns = {n : i+10 for i, n in enumerate(words)}
 triggers_dims = {tuple(n) : i+100 for i, n in enumerate(dim_ques)}
 
+all_lines_one = set()
+all_lines_two = set()
+
 for sub in range(41):
     sub_bids = 'sub-{:02}'.format(sub)
     rand_dimques = random.sample(dim_ques, k=len(dim_ques))
@@ -75,11 +78,25 @@ for sub in range(41):
         run_words = random.sample(words, k=len(words))
         fold = os.path.join('randomized_exp_per_sub', sub_bids, run_bids)
         os.makedirs(fold, exist_ok=True)
-        with open(os.path.join(fold, '{}_{}_dimension-question.tsv'.format(sub_bids, run_bids)), 'w') as o:
+        #with open(os.path.join(fold, '{}_{}_dimension-question.events'.format(sub_bids, run_bids)), 'w') as o:
+        with open('{:02}_{:02}_dq.mp3'.format(sub, run), 'w') as o:
+            o.write('Var1\tVar2\tVar3\tVar4\n')
             o.write('{}\t{}\t{}\t{}\n'.format(dim, ques, keys, triggers_dims[tuple(dq)]))
-        with open(os.path.join(fold, '{}_{}_words.tsv'.format(sub_bids, run_bids)), 'w') as o:
+            all_lines_one.add('{}\t{}\t{}\t{}\n'.format(dim, ques, keys, triggers_dims[tuple(dq)]))
+        #with open(os.path.join(fold, '{}_{}_words.events'.format(sub_bids, run_bids)), 'w') as o:
+        with open('{:02}_{:02}_w.mp3'.format(sub, run), 'w') as o:
+            o.write('Var1\tVar2\n')
             for w in run_words:
                 o.write('{}\t{}\n'.format(w, triggers_nouns[w]))
+                all_lines_two.add('{}\t{}\n'.format(w, triggers_nouns[w]))
             o.write('\n')
         fold = os.path.join('experiment_logs', sub_bids, run_bids)
         os.makedirs(fold, exist_ok=True)
+with open('two.mp3', 'w') as o:
+    o.write('Var1\tVar2\n')
+    for l in all_lines_two:
+        o.write(l)
+with open('one.mp3', 'w') as o:
+    o.write('Var1\tVar2\tVar3\tVar4\n')
+    for l in all_lines_one:
+        o.write(l)

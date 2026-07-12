@@ -1,0 +1,26 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.0016297	2.0443	Betrug	73	NA
+0.00054579	0.48822	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+0.48951	2.0331	Epoche	49	NA
+0.00050972	0.10859	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+0.10956	2.0399	Vertrag	66	NA
+0.00051052	0.10134	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	51
+0.10231	2.0338	Problem	59	NA
+0.00055147	0.22778	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+0.2288	2.0405	Glocke	40	NA
+0.00065234	0.684	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	51
+0.68499	2.0375	Thema	65	NA
+0.00063274	0.31224	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+0.31322	2.0361	Freude	50	NA
+0.00063233	0.4411	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	51
+0.44207	2.0405	Gepard	12	NA
+0.00066556	0.5404	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+0.54135	2.0346	Ausrede	70	NA
+0.00069772	0.2753	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	51
+0.27624	2.0331	Theater	27	NA
+0.00073043	0.26029	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+0.26123	2.0348	Schlange	14	NA
+0.00075387	0.24246	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	51
+0.2434	2.0393	Limonade	24	NA
+0.00082944	0.27796	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49

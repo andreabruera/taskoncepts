@@ -1,0 +1,26 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.0013896	2.0422	Posaune	37	NA
+0.00089302	0.42721	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	50
+0.42822	2.0411	Kirche	30	NA
+0.00094602	0.51635	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	51
+0.51733	2.0319	Gepard	12	NA
+0.00095514	1.1972	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	49
+1.1982	2.0441	Elefant	16	NA
+0.00097814	0.9692	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	50
+0.97011	2.0323	Abend	44	NA
+0.0010094	0.37348	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	51
+0.37851	2.0375	Geige	39	NA
+0.001056	0.24331	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	49
+0.24424	2.0385	Liebe	51	NA
+0.0010949	0.31984	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	51
+0.32087	2.0418	Glück	62	NA
+0.0011341	0.37135	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	49
+0.37227	2.0437	Hygiene	58	NA
+0.0013405	0.39297	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	50
+0.3939	2.0354	Etikette	69	NA
+0.0012438	0.3462	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	51
+0.34713	2.0422	Pinguin	15	NA
+0.0012852	0.36342	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	49
+0.36435	2.0383	Banjo	34	NA
+0.0013983	0.25456	Geschmack,[1=niedrig      2=mittel      3=hoch]	106	51
