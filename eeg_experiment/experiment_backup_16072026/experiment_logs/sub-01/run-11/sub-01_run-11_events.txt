@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.00065481	2.0406	Freude	50	NA
+0.000725	2.2614	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+2.2625	2.0328	Fr�hling	45	NA
+0.00047909	2.1482	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+2.1492	2.0394	Thema	65	NA
+0.00051376	1.4861	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+1.4871	2.0351	Kaffee	23	NA
+0.00053215	0.72201	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.723	2.0395	Kamel	10	NA
+0.00056079	2.2378	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+2.2388	2.0431	Satire	71	NA
+0.00061479	0.81031	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.81129	2.0445	Schule	32	NA
+0.00061737	2.2807	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+2.2817	2.0402	Glocke	40	NA
+0.00065407	1.5491	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+1.5501	2.0388	Harfe	36	NA
+0.00067944	0.31899	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.32012	2.0426	Betrug	73	NA
+0.00072433	1.5461	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+1.5471	2.0417	Schuld	55	NA
+0.00074551	0.8277	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.82869	2.0404	Ironie	64	NA
+0.00077799	1.5167	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+1.5177	2.0445	Morgen	47	NA
+0.00080027	3.0328	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+3.0338	2.0345	Schlange	14	NA
+0.00083534	3.1549	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+3.156	2.0322	Brunnen	28	NA
+0.0008767	2.0849	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+2.0859	2.036	Tiger	11	NA
+0.00089736	1.5695	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+1.5704	2.0317	Pinguin	15	NA
+0.0009259	0.88538	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.88641	2.036	Autobahn	31	NA
+0.00095994	2.2892	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+2.2902	2.0316	Ketchup	25	NA
+0.00098123	2.3897	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+2.3906	2.0379	Geige	39	NA
+0.0010223	0.12742	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.12847	2.0343	Falke	13	NA
+0.0010451	3.363	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+3.3642	2.0372	Moral	67	NA
+0.0010846	0.22379	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.22486	2.0445	Nacht	43	NA
+0.0012024	1.7527	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+1.7544	2.0344	Etikette	69	NA
+0.0011506	0.49827	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.49925	2.0367	Kirche	30	NA
+0.0012281	1.8886	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+1.8895	2.0325	Kaugummi	20	NA
+0.0011967	0.64496	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.64594	2.0366	Realit�t	63	NA
+0.0012295	1.4086	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+1.4098	2.0325	Furcht	52	NA
+0.0013194	0.56472	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.5657	2.0369	Trauer	56	NA
+0.00133	0.80036	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.80134	2.0411	Ger�cht	72	NA
+0.0013201	0.63616	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.63713	2.0321	Problem	59	NA
+0.0013968	0.40537	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.40634	2.0363	Hotel	29	NA
+0.0013891	1.6649	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+1.6659	2.0429	Schinken	19	NA
+0.001428	0.23436	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.23539	2.034	Posaune	37	NA
+0.0014694	0.2595	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.26055	2.0355	Honig	22	NA
+0.0014937	0.19356	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.19463	2.0348	Delphin	17	NA
+0.0015131	2.3065	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+2.3075	2.041	Vertrag	66	NA
+0.001545	4.1403	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+4.1413	2.0331	Theater	27	NA
+0.0016308	1.3481	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+1.3491	2.0398	Abend	44	NA
+0.0016434	1.2615	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+1.2625	2.0331	Gepard	12	NA
+0.0016892	0.45205	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.45309	2.0429	Gl�ck	62	NA
+0.0016993	0.18666	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.18772	2.0417	Klavier	41	NA
+0.0017774	0.76331	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.76432	2.0382	Ausrede	70	NA
+0.0017948	0.35106	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.35208	2.0373	Begierde	53	NA
+0.0017884	1.3281	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+1.3291	2.0331	Liebe	51	NA
+0.0018269	0.64403	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.64501	2.0375	Nummer	61	NA
+0.0018655	3.6798	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+3.6808	2.0405	Sommer	42	NA
+0.0019105	3.7247	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+3.7257	2.0356	Tabak	18	NA
+0.002616	0.14577	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.14682	2.0426	Trompete	38	NA
+0.0028878	0.20303	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.20416	2.0386	Scham	54	NA
+0.0025494	0.79821	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.7992	2.0433	Br�cke	33	NA
+0.0025623	0.58603	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+0.58701	2.0422	Limonade	24	NA
+0.0026171	0.23512	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.23618	2.0332	Winter	46	NA
+0.0029029	0.66	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+0.66107	2.0348	Mitleid	68	NA
+0.0026303	0.21045	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.21159	2.0445	Elend	57	NA
+0.002609	2.3766	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+2.3776	2.0375	Epoche	49	NA
+0.0025822	0.81577	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+0.81676	2.039	Elefant	16	NA
+0.0058925	0.22227	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.22336	2.0327	Hygiene	58	NA
+0.0025932	2.7564	Berührung,[1=hoch      2=mittel      3=niedrig]	102	50
+2.7575	2.0442	Banjo	34	NA
+0.0025995	0.1371	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.13814	2.0379	Saxophon	35	NA
+0.0026804	0.01031	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.011743	2.0444	Kuchen	21	NA
+0.007271	0.01032	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+0.011462	2.0447	Labor	26	NA
+0.0026584	4.3662	Berührung,[1=hoch      2=mittel      3=niedrig]	102	49
+4.3672	2.0338	Wahrheit	60	NA
+0.0025784	5.0275	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51
+5.0285	2.0389	Semester	48	NA
+0.002578	0.5424	Berührung,[1=hoch      2=mittel      3=niedrig]	102	51

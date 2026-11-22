@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.00062876	2.0416	Gepard	12	NA
+0.00050855	1.2995	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.3006	2.035	Schule	32	NA
+0.00048458	3.8582	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+3.8591	2.0354	Klavier	41	NA
+0.00050682	1.9219	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.9229	2.0391	Betrug	73	NA
+0.00056488	3.4543	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+3.4554	2.0394	Etikette	69	NA
+0.00060716	0.31781	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.3188	2.0439	Hotel	29	NA
+0.00060228	1.5935	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+1.5945	2.0343	Satire	71	NA
+0.00068626	0.53078	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.53183	2.0441	Realität	63	NA
+0.0006485	6.3611	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+6.3622	2.038	Glück	62	NA
+0.00068744	3.7113	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+3.7127	2.0353	Hygiene	58	NA
+0.00074485	0.35354	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+0.3546	2.0347	Epoche	49	NA
+0.00074231	1.1545	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.1555	2.0335	Tiger	11	NA
+0.00077409	0.67577	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.67681	2.0324	Geige	39	NA
+0.0008022	1.7968	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.7978	2.0443	Furcht	52	NA
+0.00084313	4.1851	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+4.1861	2.0417	Winter	46	NA
+0.00086521	5.1795	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+5.1805	2.0335	Brücke	33	NA
+0.00090195	6.3878	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6.3888	2.038	Liebe	51	NA
+0.0009298	1.5992	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+1.6004	2.0418	Morgen	47	NA
+0.00097589	2.8913	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+2.8923	2.0426	Semester	48	NA
+0.00099332	0.18707	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.18811	2.0413	Thema	65	NA
+0.0010156	0.49152	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.49267	2.0433	Problem	59	NA
+0.0049226	2.1699	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+2.171	2.0443	Ausrede	70	NA
+0.0010819	1.9129	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.9139	2.0348	Honig	22	NA
+0.0011101	0.17875	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+0.17982	2.0362	Schuld	55	NA
+0.0011855	0.83278	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.83378	2.0354	Frühling	45	NA
+0.0011664	3.01	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+3.011	2.0439	Ketchup	25	NA
+0.0012034	3.2094	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+3.2104	2.0445	Moral	67	NA
+0.0012387	5.1766	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+5.1776	2.0364	Autobahn	31	NA
+0.0013206	0.32095	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.322	2.0407	Mitleid	68	NA
+0.0012908	0.71671	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.71787	2.0446	Harfe	36	NA
+0.0013312	1.4643	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.4653	2.0436	Glocke	40	NA
+0.0013694	0.71388	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.71487	2.0343	Sommer	42	NA
+0.0013817	3.2828	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+3.2838	2.0377	Abend	44	NA
+0.001414	2.4478	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+2.4488	2.033	Pinguin	15	NA
+0.0015001	0.59633	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.59753	2.0317	Schlange	14	NA
+0.0014951	1.2212	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.2222	2.0335	Banjo	34	NA
+0.0016016	2.628	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+2.629	2.0394	Freude	50	NA
+0.001553	0.90984	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.91083	2.0383	Kaugummi	20	NA
+0.0016467	0.303	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+0.30406	2.032	Wahrheit	60	NA
+0.0016402	1.6691	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+1.6702	2.0386	Kirche	30	NA
+0.0016734	2.8466	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+2.8476	2.034	Begierde	53	NA
+0.0017071	4.2913	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+4.2929	2.0415	Limonade	24	NA
+0.0017381	0.15545	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+0.15652	2.0329	Trompete	38	NA
+0.0018199	4.356	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+4.357	2.044	Falke	13	NA
+0.0018348	0.45728	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.45825	2.0377	Vertrag	66	NA
+0.0019055	0.75158	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+0.75266	2.0365	Delphin	17	NA
+0.0019013	2.8009	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+2.8019	2.0398	Labor	26	NA
+0.0019228	6.8134	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+6.8144	2.0389	Kaffee	23	NA
+0.0026817	0.27058	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+0.27166	2.0377	Gerücht	72	NA
+0.0026083	2.8632	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+2.8642	2.0441	Kamel	10	NA
+0.0025611	1.3213	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.3223	2.04	Elefant	16	NA
+0.0029469	1.9812	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.9822	2.0331	Nacht	43	NA
+0.0025743	5.4922	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+5.4932	2.0407	Brunnen	28	NA
+0.0025995	2.6845	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+2.6856	2.0361	Nummer	61	NA
+0.0025706	2.017	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+2.018	2.0373	Trauer	56	NA
+0.0058254	3.4239	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+3.4251	2.043	Saxophon	35	NA
+0.002598	0.79433	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+0.79537	2.0338	Elend	57	NA
+0.0026629	2.7873	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+2.7883	2.04	Kuchen	21	NA
+0.0026012	0.39741	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+0.3984	2.0442	Posaune	37	NA
+0.0026579	2.985	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+2.9861	2.0422	Schinken	19	NA
+0.002618	1.1471	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+1.1481	2.0409	Ironie	64	NA
+0.0025939	1.2924	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+1.2934	2.0422	Tabak	18	NA
+0.0030122	1.291	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+1.2921	2.0435	Theater	27	NA
+0.0026231	3.9296	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+3.9307	2.0439	Scham	54	NA
+0.0026375	2.1055	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51

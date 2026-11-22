@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+7334.2201	2.043	Posaune	37	NA
+7336.2638	2.1626	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7338.4365	2.0382	Abend	44	NA
+7340.4753	2.207	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7342.6924	2.0339	Wahrheit	60	NA
+7344.727	2.7715	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7347.5085	2.0425	Sommer	42	NA
+7349.5517	1.0187	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7350.5803	2.0361	Glocke	40	NA
+7352.6171	0.35349	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7352.9806	2.0348	Limonade	24	NA
+7355.0161	0.41829	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7355.4444	2.0367	Etikette	69	NA
+7357.4819	0.40051	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7357.8922	2.0411	Schuld	55	NA
+7359.9341	0.62016	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7360.5642	2.0347	Nacht	43	NA
+7362.5997	0.7867	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7363.3963	2.0414	Winter	46	NA
+7365.4385	2.6837	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7368.1321	2.0371	Satire	71	NA
+7370.1701	0.56026	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7370.74	2.0413	Kamel	10	NA
+7372.7822	0.44397	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7373.236	2.0377	Saxophon	35	NA
+7375.2746	0.41563	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7375.6999	2.0393	Delphin	17	NA
+7377.7402	0.398	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7378.1482	2.0434	Nummer	61	NA
+7380.1926	0.34575	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7380.5481	2.0425	Glück	62	NA
+7382.5917	2.3465	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7384.9478	2.041	Schinken	19	NA
+7386.9898	0.54034	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7387.5398	2.0346	Vertrag	66	NA
+7389.5754	0.43481	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7390.02	2.0334	Falke	13	NA
+7392.0544	0.37169	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7392.4357	2.0432	Ironie	64	NA
+7394.4801	0.36195	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7394.8517	2.0396	Schule	32	NA
+7396.8925	0.41366	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7397.3158	2.0411	Mitleid	68	NA
+7399.3582	0.28391	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7399.6517	2.0376	Klavier	41	NA
+7401.6905	0.28773	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7401.9878	2.0339	Harfe	36	NA
+7404.0229	0.38716	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7404.4195	2.0412	Kaugummi	20	NA
+7406.462	0.38029	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7406.8517	2.0347	Honig	22	NA
+7408.8876	1.2824	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7410.1795	2.0388	Trauer	56	NA
+7412.2196	0.30263	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7412.5318	2.0321	Brunnen	28	NA
+7414.5654	0.35686	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7414.9316	2.0314	Gepard	12	NA
+7416.9644	0.32597	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7417.2997	2.0356	Brücke	33	NA
+7419.3368	0.28951	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7419.6356	2.0321	Ketchup	25	NA
+7421.6691	0.93301	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7422.6114	2.0417	Morgen	47	NA
+7424.6546	0.36343	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7425.0273	2.0382	Furcht	52	NA
+7427.067	0.28723	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7427.3634	2.0344	Autobahn	31	NA
+7429.3994	0.32264	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7429.7312	2.039	Freude	50	NA
+7431.7718	0.25449	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7432.0354	2.0405	Liebe	51	NA
+7434.0775	0.28464	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7434.3713	2.037	Kaffee	23	NA
+7436.4099	0.59209	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7437.0112	2.036	Epoche	49	NA
+7439.0488	0.52959	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7439.5875	2.0319	Thema	65	NA
+7441.6211	0.30891	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7441.9392	2.0393	Theater	27	NA
+7443.9802	0.42984	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7444.419	2.0384	Hotel	29	NA
+7446.4592	0.36701	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7446.8351	2.0346	Tiger	11	NA
+7448.8716	0.80245	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7449.6829	2.039	Betrug	73	NA
+7451.7238	2.4462	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7454.1788	2.0346	Pinguin	15	NA
+7456.2153	0.27486	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7456.4991	2.0334	Gerücht	72	NA
+7458.5343	0.35576	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7458.8989	2.0326	Kuchen	21	NA
+7460.9333	1.6688	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7462.611	2.0389	Kirche	30	NA
+7464.6519	0.33409	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7464.9947	2.0408	Hygiene	58	NA
+7467.0375	0.38043	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7467.4267	2.0345	Begierde	53	NA
+7469.4639	0.24274	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7469.7149	2.0387	Schlange	14	NA
+7471.7563	0.31827	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7472.0827	2.0433	Trompete	38	NA
+7474.1287	0.3622	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7474.4989	2.0394	Realität	63	NA
+7476.5409	0.25386	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7476.8029	2.0411	Geige	39	NA
+7478.847	0.31579	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7479.1705	2.0325	Problem	59	NA
+7481.2057	0.54876	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7481.7625	2.0395	Moral	67	NA
+7483.8046	1.1498	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7484.9624	2.0382	Semester	48	NA
+7487.0033	0.33518	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7487.3466	2.0397	Elefant	16	NA
+7489.3893	0.3815	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7489.7785	2.0334	Frühling	45	NA
+7491.8147	0.97969	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+7492.8023	2.035	Scham	54	NA
+7494.84	0.16218	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7495.0103	2.0395	Labor	26	NA
+7497.0525	0.3659	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7497.4265	2.0357	Banjo	34	NA
+7499.4649	1.3614	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7500.8342	2.0399	Elend	57	NA
+7502.8767	0.20551	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+7503.0903	2.0361	Tabak	18	NA
+7505.1292	0.41725	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+7505.5545	2.0376	Ausrede	70	NA
+7507.5951	0.15933	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50

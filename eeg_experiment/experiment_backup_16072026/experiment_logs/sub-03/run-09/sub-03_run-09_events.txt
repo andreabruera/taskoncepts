@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+6423.8648	2.0426	Thema	65	NA
+6425.908	0.78736	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6426.7055	2.0407	Nacht	43	NA
+6428.7471	0.49227	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6429.2492	2.0426	Kaffee	23	NA
+6431.2924	0.58658	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6431.8891	2.0416	Gepard	12	NA
+6433.9314	0.69968	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6434.6412	2.0351	Kirche	30	NA
+6436.6769	1.6982	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6438.3852	2.0362	Klavier	41	NA
+6440.4221	0.59314	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6441.0252	2.0351	Geige	39	NA
+6443.061	0.67398	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6443.7449	2.0342	Schuld	55	NA
+6445.7799	1.2512	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6447.0411	2.0434	Honig	22	NA
+6449.0852	0.79386	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6449.889	2.0343	Furcht	52	NA
+6451.9241	0.53091	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6452.4649	2.044	Hotel	29	NA
+6454.5097	1.1292	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6455.6488	2.0321	Epoche	49	NA
+6457.6817	0.94919	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6458.6408	2.0389	Nummer	61	NA
+6460.6806	2.8304	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6463.5207	2.0369	Tiger	11	NA
+6465.5585	0.41635	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6465.9849	2.0384	Etikette	69	NA
+6468.0242	0.38283	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6468.4168	2.0321	Schule	32	NA
+6470.4499	0.37297	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6470.8326	2.0419	Pinguin	15	NA
+6472.8756	3.0834	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6475.9687	2.0371	Trauer	56	NA
+6478.0069	0.30401	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6478.3205	2.0443	Falke	13	NA
+6480.3659	0.329	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6480.7045	2.0327	Glocke	40	NA
+6482.7383	0.38872	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6483.1366	2.0396	Wahrheit	60	NA
+6485.1773	0.41359	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6485.6007	2.0411	Elefant	16	NA
+6487.643	1.2279	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6488.8804	2.04	Labor	26	NA
+6490.9217	0.36515	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6491.2963	2.0364	Winter	46	NA
+6493.334	0.65681	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6494.0003	2.038	Schinken	19	NA
+6496.0396	0.76734	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6496.8164	2.0341	Ketchup	25	NA
+6498.8518	1.107	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6499.9681	2.041	Sommer	42	NA
+6502.0105	1.3243	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6503.3443	2.0368	Autobahn	31	NA
+6505.3825	0.9123	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6506.3041	2.0357	Freude	50	NA
+6508.3412	1.5216	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6509.8722	2.0395	Kuchen	21	NA
+6511.9131	1.6935	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6513.616	2.0408	Vertrag	66	NA
+6515.6583	0.65253	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6516.3201	2.0423	Br�cke	33	NA
+6518.3639	1.0349	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6519.4079	2.0332	Kamel	10	NA
+6521.4426	0.53222	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6521.9841	2.0426	Scham	54	NA
+6524.0282	0.52264	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6524.5601	2.0389	Kaugummi	20	NA
+6526.6005	0.79827	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6527.4079	2.0432	Brunnen	28	NA
+6529.4527	0.53794	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6529.9997	2.037	Semester	48	NA
+6532.0384	1.2163	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6533.2638	2.0382	Elend	57	NA
+6535.3037	1.407	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6536.7197	2.0342	Morgen	47	NA
+6538.7556	1.3952	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6540.1598	2.0327	Theater	27	NA
+6542.1942	2.6924	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6544.8956	2.0415	Hygiene	58	NA
+6546.939	0.63571	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6547.5836	2.0324	Limonade	24	NA
+6549.6179	1.3488	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6550.9756	2.039	Betrug	73	NA
+6553.0166	1.806	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6554.8315	2.0349	Mitleid	68	NA
+6556.8683	1.0264	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6557.9035	2.0416	Moral	67	NA
+6559.947	0.76354	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6560.7194	2.0379	Schlange	14	NA
+6562.7592	0.86334	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6563.6314	2.0447	Tabak	18	NA
+6565.678	0.42459	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6566.1114	2.0436	Ironie	64	NA
+6568.157	1.1775	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6569.3432	2.0371	Abend	44	NA
+6571.3831	1.0723	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6572.4635	2.0356	Banjo	34	NA
+6574.5018	2.4333	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6576.9431	2.0341	Liebe	51	NA
+6578.98	1.3633	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6580.3512	2.0379	Trompete	38	NA
+6582.3919	0.51121	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6582.9111	2.037	Saxophon	35	NA
+6584.9512	0.62423	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6585.5831	2.0439	Harfe	36	NA
+6587.6298	1.7533	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6589.391	2.0344	Begierde	53	NA
+6591.4281	0.6908	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6592.1269	2.044	Ausrede	70	NA
+6594.1737	4.0412	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6598.2229	2.0389	Fr�hling	45	NA
+6600.2648	1.8225	Hören,[1=hoch      2=mittel      3=niedrig]	107	50
+6602.095	2.0318	Posaune	37	NA
+6604.1296	0.74127	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6604.8788	2.0335	Delphin	17	NA
+6606.9151	0.6437	Hören,[1=hoch      2=mittel      3=niedrig]	107	49
+6607.5667	2.0378	Gl�ck	62	NA
+6609.6073	0.59167	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6610.207	2.0365	Problem	59	NA
+6612.2462	0.60882	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6612.863	2.0326	Satire	71	NA
+6614.8985	1.1244	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6616.0308	2.0369	Realit�t	63	NA
+6618.0704	2.3522	Hören,[1=hoch      2=mittel      3=niedrig]	107	51
+6620.4306	2.0352	Ger�cht	72	NA
+6622.469	0.69014	Hören,[1=hoch      2=mittel      3=niedrig]	107	51

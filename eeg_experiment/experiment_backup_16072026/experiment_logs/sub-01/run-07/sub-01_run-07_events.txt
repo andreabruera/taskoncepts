@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.00061698	2.0413	Frühling	45	NA
+0.00049791	5.3966	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+5.3976	2.0429	Ausrede	70	NA
+0.00049817	1.7383	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.7394	2.0361	Thema	65	NA
+0.00050625	1.169	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.17	2.0323	Glück	62	NA
+0.00053939	3.2689	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+3.2699	2.0382	Kaugummi	20	NA
+0.00056758	1.5192	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+1.5202	2.042	Realität	63	NA
+0.0006071	1.5953	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.5963	2.0325	Elend	57	NA
+0.00065868	2.6608	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+2.6618	2.0333	Kuchen	21	NA
+0.00065911	2.5639	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+2.565	2.0368	Geige	39	NA
+0.0007093	2.5123	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+2.5134	2.0351	Hygiene	58	NA
+0.00071665	1.9382	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+1.9392	2.0361	Problem	59	NA
+0.00074857	1.7132	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.7142	2.0346	Tiger	11	NA
+0.00078496	3.1068	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+3.1078	2.0404	Winter	46	NA
+0.00080655	1.4207	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+1.4217	2.0338	Furcht	52	NA
+0.00095106	2.1955	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+2.1967	2.0318	Trompete	38	NA
+0.00087246	1.7013	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+1.7023	2.0331	Gerücht	72	NA
+0.00090784	2.132	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+2.1331	2.0422	Schinken	19	NA
+0.0009237	0.47508	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.47608	2.0332	Schuld	55	NA
+0.00095738	0.25998	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.26108	2.035	Autobahn	31	NA
+0.0048447	2.1142	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+2.1153	2.0333	Wahrheit	60	NA
+0.001038	1.0119	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.0131	2.0427	Freude	50	NA
+0.0010515	3.0186	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+3.0198	2.0351	Limonade	24	NA
+0.0010962	0.32181	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.32286	2.0398	Banjo	34	NA
+0.0011309	3.9814	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+3.9824	2.0321	Labor	26	NA
+0.0011472	0.85321	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.85425	2.0415	Saxophon	35	NA
+0.0011928	3.4357	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+3.4367	2.0447	Hotel	29	NA
+0.0012085	6.9846	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+6.9856	2.041	Scham	54	NA
+0.0012222	4.6202	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+4.6214	2.0328	Betrug	73	NA
+0.0012979	0.48419	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.48536	2.0372	Ketchup	25	NA
+0.0012886	0.2079	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.20895	2.0338	Ironie	64	NA
+0.0013582	1.0115	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.0125	2.0432	Nacht	43	NA
+0.0013533	4.106	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+4.107	2.0408	Tabak	18	NA
+0.0013911	0.092548	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.093686	2.0424	Moral	67	NA
+0.0014278	0.1069	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.108	2.0414	Satire	71	NA
+0.0014463	0.26773	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.26876	2.0406	Theater	27	NA
+0.0014806	3.3886	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+3.3896	2.0385	Morgen	47	NA
+0.0015399	3.3906	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+3.3917	2.0364	Nummer	61	NA
+0.0015444	0.096863	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.098092	2.038	Vertrag	66	NA
+0.0015865	2.879	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+2.8801	2.0415	Begierde	53	NA
+0.0016123	0.12369	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.12475	2.038	Honig	22	NA
+0.0016678	0.25524	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.25636	2.0397	Brücke	33	NA
+0.0017292	0.38188	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.38295	2.033	Trauer	56	NA
+0.0017058	0.24395	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.24499	2.0377	Kamel	10	NA
+0.001765	3.7594	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+3.7605	2.0408	Schlange	14	NA
+0.0018407	4.3645	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+4.3656	2.0354	Elefant	16	NA
+0.0018597	4.8177	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+4.8187	2.0354	Brunnen	28	NA
+0.0018406	2.9937	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+2.9947	2.0335	Etikette	69	NA
+0.0019912	0.083761	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.084917	2.0379	Posaune	37	NA
+0.0025882	0.39925	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.40026	2.0424	Kirche	30	NA
+0.0025701	1.1469	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+1.1481	2.0409	Pinguin	15	NA
+0.0025893	1.7721	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.7732	2.0422	Glocke	40	NA
+0.0026873	2.395	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+2.3961	2.0324	Schule	32	NA
+0.0026324	1.237	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+1.238	2.0443	Gepard	12	NA
+0.0030207	3.1129	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+3.1139	2.0342	Mitleid	68	NA
+0.0026329	0.035193	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.036248	2.0332	Sommer	42	NA
+0.0025916	1.0758	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+1.0768	2.0322	Klavier	41	NA
+0.0026253	1.9249	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+1.926	2.0361	Abend	44	NA
+0.0059743	4.7692	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+4.7709	2.0432	Semester	48	NA
+0.0026502	0.23343	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+0.23449	2.0349	Harfe	36	NA
+0.0025932	3.9383	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50
+3.9394	2.0352	Delphin	17	NA
+0.00264	3.7299	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+3.7313	2.0433	Kaffee	23	NA
+0.0026482	0.29765	Geruch,[1=hoch      2=mittel      3=niedrig]	104	49
+0.29872	2.0373	Falke	13	NA
+0.0026622	2.5599	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+2.5609	2.0409	Epoche	49	NA
+0.002698	1.0044	Geruch,[1=hoch      2=mittel      3=niedrig]	104	51
+1.0054	2.0369	Liebe	51	NA
+0.0026461	5.8243	Geruch,[1=hoch      2=mittel      3=niedrig]	104	50

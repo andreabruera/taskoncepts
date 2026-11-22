@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+4302.8869	2.0334	Freude	50	NA
+4304.9209	1.5	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4306.431	2.0344	Gepard	12	NA
+4308.4661	0.61069	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4309.0871	2.0439	Trauer	56	NA
+4311.1316	0.87307	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4312.0149	2.0349	Nummer	61	NA
+4314.0505	1.2983	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4315.3588	2.0363	Schinken	19	NA
+4317.3958	0.62495	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4318.0307	2.0432	Thema	65	NA
+4320.0747	0.74607	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4320.8308	2.042	Begierde	53	NA
+4322.8736	0.95517	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4323.8387	2.0328	Autobahn	31	NA
+4325.8723	2.3403	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4328.2226	2.0338	Winter	46	NA
+4330.2572	2.1314	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4332.3986	2.0427	Schule	32	NA
+4334.4422	4.9705	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4339.4226	2.0425	Kaugummi	20	NA
+4341.466	0.60275	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4342.0786	2.0387	Br�cke	33	NA
+4344.1183	1.1504	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4345.2785	2.0376	Geige	39	NA
+4347.317	0.49565	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4347.8224	2.0392	Liebe	51	NA
+4349.8626	1.5981	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4351.4704	2.043	Betrug	73	NA
+4353.5144	2.2981	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4355.8224	2.0359	Vertrag	66	NA
+4357.8593	0.33741	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4358.2065	2.0375	Theater	27	NA
+4360.245	1.2794	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4361.5342	2.0417	Fr�hling	45	NA
+4363.577	0.92362	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4364.5103	2.0377	Semester	48	NA
+4366.5491	0.68733	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4367.2463	2.0339	Banjo	34	NA
+4369.2814	0.65924	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4369.9502	2.0356	Klavier	41	NA
+4371.9869	0.4335	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4372.43	2.0347	Kaffee	23	NA
+4374.466	3.0745	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4377.55	2.0326	Satire	71	NA
+4379.5838	0.56454	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4380.158	2.0369	Harfe	36	NA
+4382.1962	0.44824	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4382.6539	2.0333	Labor	26	NA
+4384.6884	4.1958	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4388.8939	2.044	Gl�ck	62	NA
+4390.9393	0.64924	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4391.5979	2.0322	Saxophon	35	NA
+4393.6315	0.48497	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4394.1258	2.0366	Etikette	69	NA
+4396.1638	1.4086	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4397.5817	2.0326	Furcht	52	NA
+4399.6157	0.46858	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4400.0937	2.0396	Elefant	16	NA
+4402.1349	1.5496	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4403.6936	2.0381	Schuld	55	NA
+4405.7332	0.19146	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4405.934	2.0368	Tabak	18	NA
+4407.9724	0.56005	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4408.5417	2.0414	Schlange	14	NA
+4410.5847	0.45973	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4411.0536	2.0351	Ironie	64	NA
+4413.0903	0.59398	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4413.6935	2.0342	Delphin	17	NA
+4415.7292	0.62704	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4416.3654	2.0411	Scham	54	NA
+4418.4081	0.49206	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4418.9094	2.0428	Ketchup	25	NA
+4420.9537	0.81056	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4421.7734	2.0442	Hotel	29	NA
+4423.8193	0.56892	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4424.3973	2.0326	Kuchen	21	NA
+4426.4315	0.53262	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4426.9732	2.0422	Posaune	37	NA
+4429.0172	0.61914	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4429.6455	2.0355	Nacht	43	NA
+4431.6828	0.51343	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4432.2052	2.0347	Realit�t	63	NA
+4434.2418	0.65842	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4434.9091	2.0364	Abend	44	NA
+4436.9473	0.83285	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4437.7892	2.0351	Glocke	40	NA
+4439.8262	1.602	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4441.4375	2.0387	Pinguin	15	NA
+4443.4781	0.99022	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4444.4771	2.0377	Honig	22	NA
+4446.5168	0.46333	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4446.989	2.0315	Moral	67	NA
+4449.0224	0.37388	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4449.4052	2.041	Epoche	49	NA
+4451.4482	0.47605	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4451.9331	2.032	Kamel	10	NA
+4453.9679	1.2211	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4455.197	2.0334	Trompete	38	NA
+4457.2333	0.57968	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4457.8209	2.0351	Ger�cht	72	NA
+4459.8588	0.51413	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4460.381	2.034	Brunnen	28	NA
+4462.4181	0.83506	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4463.2608	2.033	Elend	57	NA
+4465.2966	0.66038	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4465.9649	2.0344	Falke	13	NA
+4468.0021	1.1866	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4469.1966	2.0413	Mitleid	68	NA
+4471.2408	0.66794	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4471.9166	2.0402	Limonade	24	NA
+4473.96	5.3889	Berührung,[1=niedrig      2=mittel      3=hoch]	102	50
+4479.3566	2.0372	Wahrheit	60	NA
+4481.3965	0.57613	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4481.9806	2.0387	Kirche	30	NA
+4484.0221	3.5344	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4487.5645	2.0392	Problem	59	NA
+4489.6065	0.71798	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4490.3325	2.0434	Tiger	11	NA
+4492.3825	0.65243	Berührung,[1=niedrig      2=mittel      3=hoch]	102	51
+4493.0524	2.0423	Ausrede	70	NA
+4495.0975	0.82683	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4495.9324	2.0412	Morgen	47	NA
+4497.9763	1.1321	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4499.1166	2.0423	Hygiene	58	NA
+4501.1621	0.74673	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49
+4501.9164	2.0413	Sommer	42	NA
+4503.9605	0.71567	Berührung,[1=niedrig      2=mittel      3=hoch]	102	49

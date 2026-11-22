@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+5032.5076	2.0332	Schuld	55	NA
+5034.5415	1.4684	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5036.0199	2.0395	Hotel	29	NA
+5038.06	0.44614	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5038.5165	2.0352	Trompete	38	NA
+5040.5523	0.30541	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5040.8679	2.0428	Sommer	42	NA
+5042.9114	0.93842	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5043.8599	2.0363	Realität	63	NA
+5045.8969	0.52919	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5046.4361	2.0323	Schlange	14	NA
+5048.4692	0.30876	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5048.788	2.0395	Nacht	43	NA
+5050.8283	0.58965	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5051.4279	2.0385	Kaugummi	20	NA
+5053.4672	0.70258	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5054.1797	2.0322	Liebe	51	NA
+5056.2128	0.629	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5056.8517	2.0392	Tiger	11	NA
+5058.8918	0.35025	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5059.2519	2.038	Problem	59	NA
+5061.2908	0.7032	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5062.0038	2.0316	Vertrag	66	NA
+5064.0364	0.29349	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5064.3397	2.0415	Kuchen	21	NA
+5066.3821	0.26778	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5066.6597	2.0405	Gepard	12	NA
+5068.7012	0.28494	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5068.996	2.0366	Mitleid	68	NA
+5071.0336	0.86435	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5071.9077	2.0437	Freude	50	NA
+5073.9524	0.45748	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5074.4196	2.0374	Hygiene	58	NA
+5076.4581	0.35181	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5076.8197	2.0364	Betrug	73	NA
+5078.8571	0.22478	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5079.0917	2.0435	Brücke	33	NA
+5081.1364	0.36202	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5081.5082	2.0393	Pinguin	15	NA
+5083.5487	0.01031	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5083.5686	2.0314	Geige	39	NA
+5085.6012	0.28094	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5085.8917	2.0407	Elend	57	NA
+5087.9336	0.28437	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5088.2276	2.0372	Epoche	49	NA
+5090.266	0.80013	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5091.0756	2.0413	Elefant	16	NA
+5093.1182	0.2998	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5093.4275	2.0352	Harfe	36	NA
+5095.4639	0.29008	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5095.7636	2.0314	Morgen	47	NA
+5097.7964	0.90179	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+5098.7076	2.0329	Saxophon	35	NA
+5100.7419	0.30844	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5101.0597	2.0398	Semester	48	NA
+5103.1009	0.34918	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5103.4595	2.0391	Thema	65	NA
+5105.5	0.27029	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5105.7796	2.038	Posaune	37	NA
+5107.819	0.33535	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5108.1637	2.0396	Glocke	40	NA
+5110.2048	0.31747	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5110.5315	2.0442	Furcht	52	NA
+5112.5772	0.28121	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5112.8677	2.0404	Autobahn	31	NA
+5114.9096	0.34884	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5115.2677	2.0394	Theater	27	NA
+5117.3086	0.31775	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5117.6356	2.0439	Banjo	34	NA
+5119.6811	0.32947	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5120.0197	2.0321	Ironie	64	NA
+5122.0534	1.0608	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5123.1233	2.0339	Moral	67	NA
+5125.1589	0.25936	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5125.4274	2.0355	Trauer	56	NA
+5127.4646	0.24192	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5127.7157	2.0397	Tabak	18	NA
+5129.757	0.8132	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5130.5793	2.0415	Kamel	10	NA
+5132.6226	0.29963	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5132.9312	2.0354	Begierde	53	NA
+5134.9683	0.33796	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5135.3153	2.0369	Limonade	24	NA
+5137.3541	0.2882	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5137.6512	2.0334	Klavier	41	NA
+5139.6865	0.2922	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5139.9876	2.0427	Nummer	61	NA
+5142.0322	0.98615	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+5143.0274	2.0417	Honig	22	NA
+5145.071	1.1474	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5146.2272	2.0406	Kirche	30	NA
+5148.2698	1.6766	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5149.9551	2.0445	Glück	62	NA
+5152.0016	1.289	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+5153.2993	2.0323	Wahrheit	60	NA
+5155.3337	1.6367	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5156.9791	2.0443	Falke	13	NA
+5159.0261	0.32911	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5159.3633	2.0325	Gerücht	72	NA
+5161.3985	0.27664	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5161.6832	2.0316	Delphin	17	NA
+5163.7175	0.37348	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5164.0991	2.0414	Ketchup	25	NA
+5166.1435	0.28389	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5166.4352	2.0377	Etikette	69	NA
+5168.4756	0.39975	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5168.8835	2.0418	Brunnen	28	NA
+5170.928	0.28299	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5171.219	2.0386	Kaffee	23	NA
+5173.2603	0.55893	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+5173.8273	2.0425	Abend	44	NA
+5175.8768	1.3544	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+5177.2351	2.0334	Frühling	45	NA
+5179.2712	0.34006	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+5179.6193	2.0349	Schinken	19	NA
+5181.6569	0.48206	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5182.1471	2.0394	Winter	46	NA
+5184.1892	0.39782	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+5184.5951	2.0438	Scham	54	NA
+5186.6416	0.31324	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5186.9629	2.035	Ausrede	70	NA
+5189.0006	0.33854	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5189.3472	2.0364	Labor	26	NA
+5191.3863	0.33658	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5191.731	2.0383	Satire	71	NA
+5193.7723	0.2551	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+5194.0352	2.0398	Schule	32	NA
+5196.0778	0.31709	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51

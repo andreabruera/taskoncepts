@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+5839.0783	2.0406	Wahrheit	60	NA
+5841.1196	0.32514	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5841.4548	2.0364	Elend	57	NA
+5843.4918	0.96072	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5844.4628	2.0405	Furcht	52	NA
+5846.504	0.7167	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5847.2307	2.0315	Kaugummi	20	NA
+5849.2629	0.40585	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5849.6787	2.0358	Mitleid	68	NA
+5851.7152	0.30532	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5852.0306	2.043	Delphin	17	NA
+5854.0743	0.28225	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5854.3665	2.0394	Geige	39	NA
+5856.4068	0.30189	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5856.7185	2.0331	Falke	13	NA
+5858.7524	0.19612	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5858.9586	2.0322	Pinguin	15	NA
+5860.9916	0.26138	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5861.2629	2.0336	Ironie	64	NA
+5863.2974	0.30726	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5863.6145	2.041	Nacht	43	NA
+5865.6564	0.28423	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5865.9505	2.0374	Epoche	49	NA
+5867.9888	0.32013	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5868.3188	2.0415	Limonade	24	NA
+5870.3613	1.1155	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5871.4865	2.0325	Betrug	73	NA
+5873.5199	0.34078	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5873.8705	2.0341	Hygiene	58	NA
+5875.9057	0.29103	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5876.2065	2.0439	Kaffee	23	NA
+5878.2515	0.3133	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5878.5744	2.035	Sommer	42	NA
+5880.6105	0.32225	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5880.9424	2.0394	Labor	26	NA
+5882.9829	0.26995	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5883.2625	2.0383	Saxophon	35	NA
+5885.302	0.46277	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5885.7746	2.0319	Schlange	14	NA
+5887.8076	0.51733	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5888.3346	2.0442	Begierde	53	NA
+5890.3799	0.47319	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	51
+5890.8627	2.035	Kamel	10	NA
+5892.899	0.3698	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5893.2783	2.0319	Vertrag	66	NA
+5895.3113	0.45348	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5895.7743	2.0415	Trompete	38	NA
+5897.817	0.20385	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5898.0304	2.0377	Winter	46	NA
+5900.0694	4.3353	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5904.4144	2.0378	Glocke	40	NA
+5906.4536	0.39948	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5906.8624	2.0421	Elefant	16	NA
+5908.9059	0.33129	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5909.2466	2.0436	Honig	22	NA
+5911.2916	0.40961	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5911.7106	2.032	Tabak	18	NA
+5913.744	0.35695	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5914.1103	2.0446	Abend	44	NA
+5916.1564	0.24889	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5916.4146	2.0327	Klavier	41	NA
+5918.4488	0.24475	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5918.7029	2.0369	Realität	63	NA
+5920.7412	0.27176	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5921.0222	2.0366	Thema	65	NA
+5923.0604	0.30479	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5923.3745	2.0434	Glück	62	NA
+5925.4194	0.28183	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5925.7104	2.0399	Schuld	55	NA
+5927.7518	0.22126	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5927.9822	2.0338	Kuchen	21	NA
+5930.0176	0.83537	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5930.8621	2.0327	Brunnen	28	NA
+5932.8965	0.37288	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5933.2784	2.042	Morgen	47	NA
+5935.3222	0.33098	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5935.6622	2.044	Schule	32	NA
+5937.7079	0.32931	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5938.0462	2.0323	Posaune	37	NA
+5940.0803	0.30893	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5940.3982	2.0394	Ausrede	70	NA
+5942.4394	3.0058	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5945.4541	2.0348	Tiger	11	NA
+5947.4907	0.33839	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5947.8379	2.0366	Liebe	51	NA
+5949.8765	2.5447	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5952.4299	2.0427	Nummer	61	NA
+5954.4746	0.71449	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5955.198	2.0335	Moral	67	NA
+5957.2335	0.29165	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5957.5339	2.0433	Autobahn	31	NA
+5959.5793	0.37798	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5959.9659	2.037	Schinken	19	NA
+5962.0049	0.36817	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5962.3818	2.0335	Frühling	45	NA
+5964.4173	0.86792	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5965.2939	2.0402	Hotel	29	NA
+5967.3368	0.34898	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5967.6938	2.0393	Harfe	36	NA
+5969.7358	0.31832	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5970.0623	2.0432	Brücke	33	NA
+5972.1082	0.28197	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5972.3983	2.0396	Satire	71	NA
+5974.441	0.28559	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5974.7343	2.036	Problem	59	NA
+5976.7729	0.28913	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5977.0702	2.0325	Kirche	30	NA
+5979.1053	0.29242	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5979.4059	2.0425	Semester	48	NA
+5981.451	0.39473	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5981.8538	2.0336	Gerücht	72	NA
+5983.8904	0.29173	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5984.1899	2.0432	Scham	54	NA
+5986.2357	0.48993	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	51
+5986.7337	2.0317	Gepard	12	NA
+5988.7681	0.37376	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5989.15	2.0411	Banjo	34	NA
+5991.1939	0.5879	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5991.7897	2.0403	Freude	50	NA
+5993.8327	1.021	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	50
+5994.8617	2.0337	Trauer	56	NA
+5996.8981	0.35568	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5997.2618	2.0326	Ketchup	25	NA
+5999.2971	0.53272	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+5999.8378	2.0422	Theater	27	NA
+6001.8831	0.73081	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49
+6002.6216	2.044	Etikette	69	NA
+6004.6683	0.34544	Vertrautheit,[1=hoch      2=mittel      3=niedrig]	110	49

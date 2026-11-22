@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.00062409	2.0415	Saxophon	35	NA
+0.00051068	4.5163	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+4.5173	2.0436	Begierde	53	NA
+0.00048964	1.6737	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+1.6747	2.0341	Ausrede	70	NA
+0.00050645	1.0591	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+1.0601	2.0356	Elend	57	NA
+0.00053454	1.1057	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+1.1067	2.0423	Etikette	69	NA
+0.00058953	1.7071	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.7081	2.0407	Kirche	30	NA
+0.00059571	1.7247	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+1.7256	2.0365	Ironie	64	NA
+0.0006188	1.4407	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+1.4417	2.0405	Glück	62	NA
+0.00066047	2.3168	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+2.3179	2.044	Pinguin	15	NA
+0.00068935	1.1132	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.1141	2.0349	Tabak	18	NA
+0.00072083	1.7624	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+1.7634	2.0387	Liebe	51	NA
+0.00074348	0.5587	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.55969	2.0429	Theater	27	NA
+0.00077081	1.2264	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+1.2274	2.0416	Satire	71	NA
+0.00080242	2.4916	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.4927	2.0424	Hotel	29	NA
+0.0008296	2.1389	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.14	2.0353	Tiger	11	NA
+0.00090098	0.2259	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+0.22705	2.0423	Labor	26	NA
+0.00091084	1.739	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.7399	2.0355	Kaugummi	20	NA
+0.00095302	2.3056	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.3065	2.042	Epoche	49	NA
+0.0009658	2.1073	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.1083	2.0403	Limonade	24	NA
+0.00098533	1.821	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.822	2.0334	Brunnen	28	NA
+0.0010203	1.092	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.093	2.0427	Problem	59	NA
+0.0010481	0.33051	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.33148	2.0445	Schuld	55	NA
+0.0010745	0.26518	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.26639	2.043	Freude	50	NA
+0.0011469	0.21805	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.21911	2.0369	Klavier	41	NA
+0.0011487	2.224	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.225	2.0435	Vertrag	66	NA
+0.0011958	0.24975	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.25073	2.032	Trompete	38	NA
+0.0012737	1.7812	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.7822	2.0332	Gerücht	72	NA
+0.0012511	0.42032	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.42138	2.0346	Schlange	14	NA
+0.0012585	3.3145	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+3.3157	2.0324	Honig	22	NA
+0.0013013	0.75661	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+0.75762	2.0315	Autobahn	31	NA
+0.0013708	1.6859	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.6868	2.0353	Banjo	34	NA
+0.0013457	5.7459	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+5.7469	2.0402	Delphin	17	NA
+0.0014245	1.9972	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.9981	2.0438	Semester	48	NA
+0.0014188	0.5693	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+0.57045	2.0321	Mitleid	68	NA
+0.0014807	0.32508	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.32617	2.0365	Kuchen	21	NA
+0.0014943	1.5048	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.5058	2.0431	Harfe	36	NA
+0.0015246	1.3061	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.3071	2.0419	Trauer	56	NA
+0.0016171	0.2354	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.23649	2.0329	Realität	63	NA
+0.0016139	1.1564	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.1574	2.0316	Schinken	19	NA
+0.0016621	0.1976	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+0.19867	2.044	Glocke	40	NA
+0.001704	1.6092	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.6102	2.0319	Moral	67	NA
+0.0017181	0.70935	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.71034	2.0388	Kaffee	23	NA
+0.0017333	2.9264	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+2.9274	2.0342	Elefant	16	NA
+0.0017717	0.64324	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+0.64424	2.0383	Winter	46	NA
+0.0017852	2.2229	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+2.2239	2.0446	Abend	44	NA
+0.0018332	3.1766	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+3.1776	2.0373	Gepard	12	NA
+0.0018532	0.20797	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+0.20895	2.0338	Scham	54	NA
+0.0018903	1.6197	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.6207	2.0348	Wahrheit	60	NA
+0.0025668	4.2263	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+4.2273	2.0404	Sommer	42	NA
+0.0025623	2.8448	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.8459	2.0358	Frühling	45	NA
+0.0029588	1.1215	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+1.1226	2.0398	Nacht	43	NA
+0.0025725	1.8694	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.8704	2.0383	Thema	65	NA
+0.0026146	0.22315	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.22414	2.0319	Betrug	73	NA
+0.0026131	0.32528	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.32638	2.0363	Hygiene	58	NA
+0.0057116	2.9929	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+2.9945	2.0337	Schule	32	NA
+0.0025815	0.11528	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+0.11636	2.0331	Kamel	10	NA
+0.0025924	0.29173	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+0.29271	2.0433	Ketchup	25	NA
+0.0025814	1.0022	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.0032	2.0392	Geige	39	NA
+0.0037361	2.0779	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+2.0789	2.043	Posaune	37	NA
+0.002903	2.2822	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+2.2832	2.0386	Falke	13	NA
+0.0026018	1.3907	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.3917	2.0372	Nummer	61	NA
+0.0029292	1.4401	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+1.4411	2.0411	Morgen	47	NA
+0.0025966	2.2681	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.2691	2.0395	Furcht	52	NA
+0.0026933	2.7819	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+2.7828	2.0321	Brücke	33	NA
+0.002634	2.7572	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49

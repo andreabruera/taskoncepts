@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+6059.2687	2.0405	Gerücht	72	NA
+6061.3099	0.86942	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6062.1894	2.0386	Glocke	40	NA
+6064.2286	0.3346	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6064.5732	2.0404	Sommer	42	NA
+6066.6143	0.52493	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6067.1494	2.0366	Ausrede	70	NA
+6069.1866	0.25668	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6069.4534	2.0383	Vertrag	66	NA
+6071.4923	1.2148	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6072.7171	2.0399	Brunnen	28	NA
+6074.7578	0.71742	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6075.4851	2.0441	Scham	54	NA
+6077.5299	0.24929	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6077.7892	2.0324	Epoche	49	NA
+6079.8224	0.16477	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6079.9971	2.037	Geige	39	NA
+6082.0348	0.30434	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6082.3491	2.044	Hotel	29	NA
+6084.3939	0.28147	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6084.6853	2.0402	Banjo	34	NA
+6086.7263	0.22094	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6086.9571	2.0341	Begierde	53	NA
+6088.9922	0.29112	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6089.2931	2.0438	Liebe	51	NA
+6091.3378	0.26539	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6091.613	2.0429	Nacht	43	NA
+6093.6569	0.37836	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6094.0452	2.0365	Delphin	17	NA
+6096.0826	0.44865	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6096.5411	2.0329	Schinken	19	NA
+6098.575	0.45242	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6099.0371	2.0425	Winter	46	NA
+6101.0806	0.28293	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6101.3733	2.0387	Kamel	10	NA
+6103.413	1.9344	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+6105.3571	2.0399	Gepard	12	NA
+6107.3981	2.2532	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49
+6109.6609	2.041	Pinguin	15	NA
+6111.7031	0.044258	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6111.757	2.0374	Elend	57	NA
+6113.7956	0.59173	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6114.397	2.0363	Schuld	55	NA
+6116.4345	0.3208	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6116.7648	2.0409	Mitleid	68	NA
+6118.8069	0.39674	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6119.2132	2.0315	Moral	67	NA
+6121.2459	1.4774	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6122.7328	2.0438	Ketchup	25	NA
+6124.7779	0.26564	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6125.053	2.0427	Frühling	45	NA
+6127.097	0.53844	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6127.6449	2.0364	Wahrheit	60	NA
+6129.6826	0.25682	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6129.949	2.038	Posaune	37	NA
+6131.9884	0.28719	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6132.2849	2.0345	Honig	22	NA
+6134.3208	1.1708	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6135.5008	2.0439	Realität	63	NA
+6137.5462	0.28152	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6137.837	2.0401	Limonade	24	NA
+6139.8786	0.25309	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6140.141	2.0419	Kirche	30	NA
+6142.1843	0.2351	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6142.4286	2.0333	Satire	71	NA
+6144.4636	0.30843	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6144.7811	2.0398	Schlange	14	NA
+6146.8225	0.28504	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6147.1167	2.0366	Glück	62	NA
+6149.1549	0.35266	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6149.5168	2.0355	Hygiene	58	NA
+6151.5539	0.30566	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6151.8688	2.0426	Freude	50	NA
+6153.913	1.0828	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6155.005	2.0384	Saxophon	35	NA
+6157.0451	0.28643	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6157.3407	2.0351	Kaugummi	20	NA
+6159.3776	0.28998	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6159.6766	2.0316	Autobahn	31	NA
+6161.71	0.51766	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6162.2367	2.0438	Trompete	38	NA
+6164.2823	0.44128	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6164.7325	2.0403	Falke	13	NA
+6166.7746	0.38126	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6167.1649	2.0336	Tabak	18	NA
+6169.2004	0.46741	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6169.6767	2.0408	Furcht	52	NA
+6171.7194	0.30041	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6172.0286	2.0346	Semester	48	NA
+6174.0651	0.32256	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6174.3965	2.039	Problem	59	NA
+6176.4374	0.28672	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6176.7331	2.0349	Betrug	73	NA
+6178.7699	0.28977	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6179.0685	2.0318	Morgen	47	NA
+6181.1024	0.34167	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6181.4528	2.0333	Thema	65	NA
+6183.4887	0.27568	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6183.7726	2.0324	Klavier	41	NA
+6185.8078	0.69265	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6186.5084	2.0422	Abend	44	NA
+6188.5533	0.33111	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6188.8925	2.0438	Elefant	16	NA
+6190.939	0.28131	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6191.229	2.0397	Tiger	11	NA
+6193.2718	0.18899	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6193.4684	2.0394	Etikette	69	NA
+6195.5104	0.33388	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6195.8524	2.0411	Labor	26	NA
+6197.8961	0.23636	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6198.1406	2.0319	Schule	32	NA
+6200.1752	0.32506	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6200.5083	2.0366	Kuchen	21	NA
+6202.548	0.22468	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6202.7803	2.0437	Theater	27	NA
+6204.8267	0.29777	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6205.1325	2.0372	Harfe	36	NA
+6207.1724	0.30389	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6207.4843	2.0444	Nummer	61	NA
+6209.5315	0.29679	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6209.8363	2.0381	Trauer	56	NA
+6211.8772	0.67114	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	50
+6212.5563	2.037	Ironie	64	NA
+6214.596	0.36848	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6214.9726	2.0331	Kaffee	23	NA
+6217.0084	0.3238	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	51
+6217.3402	2.0379	Brücke	33	NA
+6219.3811	1.7596	Kommunikation,[1=niedrig      2=mittel      3=hoch]	108	49

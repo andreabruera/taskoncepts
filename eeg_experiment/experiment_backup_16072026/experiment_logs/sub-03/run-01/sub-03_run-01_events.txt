@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+3944.0756	2.0334	Saxophon	35	NA
+3946.1097	1.2922	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+3947.4125	2.0417	Fr�hling	45	NA
+3949.4549	0.79505	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+3950.2605	2.0326	Vertrag	66	NA
+3952.2938	0.78824	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+3953.0925	2.0394	Liebe	51	NA
+3955.1327	1.4532	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+3956.5962	2.0409	Thema	65	NA
+3958.6379	1.1639	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+3959.8122	2.037	Freude	50	NA
+3961.8498	0.51202	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+3962.3723	2.0357	Ausrede	70	NA
+3964.4088	1.0571	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+3965.4765	2.037	Elend	57	NA
+3967.5142	0.83158	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+3968.3563	2.036	Ger�cht	72	NA
+3970.3931	1.6806	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+3972.0842	2.0399	Geige	39	NA
+3974.1249	0.68491	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+3974.8204	2.0358	Morgen	47	NA
+3976.8572	1.6645	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+3978.5323	2.0424	Nummer	61	NA
+3980.5758	1.3541	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+3981.9404	2.0329	Tiger	11	NA
+3983.9744	1.1074	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+3985.0923	2.0397	Schule	32	NA
+3987.1333	1.0367	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+3988.1804	2.0436	Moral	67	NA
+3990.2253	1.1447	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+3991.3806	2.0421	Ironie	64	NA
+3993.4243	2.922	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+3996.3567	2.0373	Furcht	52	NA
+3998.3955	1.3104	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+3999.7165	2.0361	Hotel	29	NA
+4001.7542	0.81581	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4002.5805	2.0375	Problem	59	NA
+4004.6199	0.99034	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4005.6207	2.0361	Brunnen	28	NA
+4007.6586	2.1436	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4009.8128	2.0423	Epoche	49	NA
+4011.857	2.7613	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4014.6289	2.0375	Banjo	34	NA
+4016.6685	0.58981	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4017.2688	2.0365	Gl�ck	62	NA
+4019.3075	1.4549	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4020.773	2.0376	Begierde	53	NA
+4022.8129	3.4216	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4026.2451	2.0432	Mitleid	68	NA
+4028.291	1.7518	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4030.0531	2.0336	Limonade	24	NA
+4032.0893	0.83349	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4032.9334	2.0321	Autobahn	31	NA
+4034.9683	0.64279	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4035.6218	2.036	Trauer	56	NA
+4037.6607	1.8222	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4039.4935	2.0426	Glocke	40	NA
+4041.5392	0.63182	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4042.1817	2.0333	Scham	54	NA
+4044.2183	0.78505	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4045.014	2.0399	Etikette	69	NA
+4047.0573	1.018	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4048.0859	2.0334	Kaffee	23	NA
+4050.1229	0.67252	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4050.806	2.032	Betrug	73	NA
+4052.842	1.9056	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4054.7582	2.0382	Pinguin	15	NA
+4056.8005	0.49126	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4057.3024	2.0396	Schinken	19	NA
+4059.3463	0.50567	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4059.8626	2.0383	Realit�t	63	NA
+4061.9055	1.1626	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4063.0787	2.0343	Harfe	36	NA
+4065.1177	0.9107	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4066.0393	2.0325	Kuchen	21	NA
+4068.0768	0.54376	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4068.6312	2.0395	Posaune	37	NA
+4070.6759	1.2408	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4071.9273	2.0353	Abend	44	NA
+4073.9681	0.7169	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4074.6956	2.0392	Labor	26	NA
+4076.7405	0.58457	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4077.3358	2.038	Schuld	55	NA
+4079.3796	3.0496	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4082.44	2.0383	Elefant	16	NA
+4084.4845	1.865	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4086.3602	2.0365	Kamel	10	NA
+4088.4031	0.71455	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4089.1283	2.0405	Klavier	41	NA
+4091.1756	1.5903	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4092.7765	2.0441	Wahrheit	60	NA
+4094.8276	1.0772	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4095.9289	2.0371	Gepard	12	NA
+4097.9733	1.7211	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4099.7051	2.0327	Theater	27	NA
+4101.7453	3.4399	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4105.2093	2.0329	Kaugummi	20	NA
+4107.25	2.3834	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4109.6575	2.0362	Winter	46	NA
+4111.7019	1.4358	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4113.1617	2.0372	Satire	71	NA
+4115.2074	1.2908	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4116.5222	2.0353	Semester	48	NA
+4118.5664	0.84396	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4119.4342	2.0421	Nacht	43	NA
+4121.4856	0.78917	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4122.2991	2.0427	Honig	22	NA
+4124.3514	0.77164	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4125.1468	2.0338	Trompete	38	NA
+4127.1906	0.94076	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	49
+4128.1455	2.0339	Sommer	42	NA
+4130.1826	0.46742	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4130.6576	2.0408	Falke	13	NA
+4132.7011	0.47648	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4133.1856	2.0316	Delphin	17	NA
+4135.2201	0.27745	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4135.5055	2.0441	Tabak	18	NA
+4137.5527	0.55327	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4138.1138	2.0348	Kirche	30	NA
+4140.1514	2.0179	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	50
+4142.1773	2.0363	Hygiene	58	NA
+4144.2163	0.44902	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4144.6733	2.0325	Br�cke	33	NA
+4146.7089	0.30894	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4147.0256	2.0392	Schlange	14	NA
+4149.0676	0.077497	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51
+4149.1532	2.0441	Ketchup	25	NA
+4151.2002	0.010311	Geräusche,[1=hoch      2=mittel      3=niedrig]	105	51

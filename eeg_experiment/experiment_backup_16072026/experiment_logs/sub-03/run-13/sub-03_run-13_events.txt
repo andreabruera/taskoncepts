@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+7587.5126	2.0321	Brücke	33	NA
+7589.5454	5.7734	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+7595.3289	2.0392	Banjo	34	NA
+7597.3688	1.5499	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7598.9288	2.0379	Problem	59	NA
+7600.9673	0.3194	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7601.2969	2.0422	Moral	67	NA
+7603.3397	0.73116	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7604.0809	2.0437	Winter	46	NA
+7606.1252	0.29747	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7606.4328	2.0374	Honig	22	NA
+7608.4709	0.27172	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+7608.7527	2.0366	Elefant	16	NA
+7610.79	0.30466	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7611.1047	2.0437	Tiger	11	NA
+7613.1492	0.26559	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7613.4246	2.0428	Frühling	45	NA
+7615.4682	0.47468	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7615.9527	2.0336	Nummer	61	NA
+7617.9871	0.89959	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7618.8972	2.0346	Gerücht	72	NA
+7620.9326	0.29054	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7621.233	2.0444	Gepard	12	NA
+7623.2783	1.1604	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7624.4485	2.041	Semester	48	NA
+7626.4903	0.84443	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+7627.3446	2.037	Vertrag	66	NA
+7629.3825	0.70414	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+7630.0964	2.044	Kaugummi	20	NA
+7632.1414	0.45726	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7632.6083	2.0377	Nacht	43	NA
+7634.6471	0.47957	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7635.1363	2.042	Klavier	41	NA
+7637.1794	0.3475	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7637.5366	2.0408	Limonade	24	NA
+7639.5784	0.31636	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7639.9045	2.0319	Mitleid	68	NA
+7641.9375	0.2293	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7642.1763	2.0391	Schinken	19	NA
+7644.2165	0.33411	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7644.5602	2.0409	Geige	39	NA
+7646.6022	0.31644	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7646.9282	2.0319	Scham	54	NA
+7648.9613	0.1333	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7649.1041	2.0417	Glück	62	NA
+7651.1471	0.37954	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7651.5363	2.0353	Satire	71	NA
+7653.5728	0.43382	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7654.016	2.0345	Epoche	49	NA
+7656.0517	0.78681	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7656.848	2.0413	Kuchen	21	NA
+7658.8907	1.1001	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7660.0001	2.0345	Tabak	18	NA
+7662.036	0.97856	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7663.0239	2.0362	Autobahn	31	NA
+7665.0614	0.73723	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7665.808	2.0376	Furcht	52	NA
+7667.847	0.31955	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7668.1761	2.0419	Schule	32	NA
+7670.2194	0.79518	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7671.0238	2.0329	Labor	26	NA
+7673.0583	0.3565	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7673.4241	2.0317	Theater	27	NA
+7675.461	0.32531	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+7675.7918	2.0363	Hotel	29	NA
+7677.8296	0.30492	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7678.1438	2.0434	Wahrheit	60	NA
+7680.1887	0.21782	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7680.4159	2.037	Ausrede	70	NA
+7682.4545	1.8082	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7684.2718	2.0328	Ketchup	25	NA
+7686.3062	0.34028	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7686.6556	2.0347	Falke	13	NA
+7688.6919	0.30655	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7689.0076	2.0417	Trompete	38	NA
+7691.051	0.65149	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7691.7116	2.0433	Thema	65	NA
+7693.7565	1.2739	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7695.0397	2.0338	Realität	63	NA
+7697.0753	0.67522	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7697.7594	2.033	Glocke	40	NA
+7699.7942	0.22841	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7700.0315	2.0399	Schlange	14	NA
+7702.0733	0.30128	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7702.3835	2.0336	Morgen	47	NA
+7704.419	1.0597	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7705.4875	2.035	Begierde	53	NA
+7707.5244	0.32234	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7707.8556	2.0392	Kirche	30	NA
+7709.8967	1.7898	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7711.6954	2.0379	Brunnen	28	NA
+7713.7352	0.97523	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7714.7192	2.0395	Sommer	42	NA
+7716.7606	1.0219	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7717.7913	2.0328	Elend	57	NA
+7719.8261	0.38837	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7720.2232	2.0398	Delphin	17	NA
+7722.2657	0.36537	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7722.6392	2.0362	Kamel	10	NA
+7724.678	1.377	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7726.063	2.0376	Freude	50	NA
+7728.1036	0.52777	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7728.6392	2.0337	Liebe	51	NA
+7730.6755	6.2913	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7736.975	2.0411	Hygiene	58	NA
+7739.0187	0.84416	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	50
+7739.8709	2.0373	Abend	44	NA
+7741.9109	0.32022	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7742.2392	2.0414	Saxophon	35	NA
+7744.2863	0.28378	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7744.5751	2.0378	Harfe	36	NA
+7746.6156	0.35125	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7746.9749	2.037	Posaune	37	NA
+7749.0147	0.32027	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7749.3429	2.0413	Schuld	55	NA
+7751.387	0.26768	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7751.6627	2.0407	Trauer	56	NA
+7753.706	1.0686	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7754.7827	2.0393	Kaffee	23	NA
+7756.8247	0.6381	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7757.4709	2.0433	Ironie	64	NA
+7759.5169	0.3616	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7759.8867	2.0399	Pinguin	15	NA
+7761.9296	0.31757	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	49
+7762.255	2.044	Betrug	73	NA
+7764.3016	0.88898	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51
+7765.1986	2.0324	Etikette	69	NA
+7767.2339	0.46904	Verursacht,[1=niedrig      2=mittel      3=hoch]	111	51

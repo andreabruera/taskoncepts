@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+5898.848	2.0371	Betrug	73	NA
+5900.8858	0.71284	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5901.6087	2.0353	Labor	26	NA
+5903.6446	0.89786	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+5904.5526	2.0369	Schule	32	NA
+5906.5901	1.2163	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+5907.8165	2.0383	Falke	13	NA
+5909.8554	0.73497	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+5910.6004	2.0398	Ausrede	70	NA
+5912.6409	1.1816	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5913.8325	2.0331	Semester	48	NA
+5915.8663	1.556	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5917.4323	2.0318	Kaugummi	20	NA
+5919.4648	1.9575	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5921.4323	2.0435	Problem	59	NA
+5923.4765	1.9618	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5925.4482	2.0392	Sommer	42	NA
+5927.4884	0.99016	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5928.4884	2.0378	Pinguin	15	NA
+5930.527	1.2632	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5931.8001	2.0447	Elefant	16	NA
+5933.8457	1.5927	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5935.4482	2.0351	Kamel	10	NA
+5937.4842	1.346	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5938.84	2.0419	Realität	63	NA
+5940.8829	1.8834	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5942.776	2.0376	Kirche	30	NA
+5944.8145	0.92767	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5945.752	2.0337	Gepard	12	NA
+5947.7867	1.8115	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5949.6079	2.0429	Brücke	33	NA
+5951.6518	0.65039	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5952.312	2.0443	Klavier	41	NA
+5954.3574	0.71283	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+5955.0798	2.0353	Kuchen	21	NA
+5957.1162	1.7781	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+5958.904	2.0363	Tiger	11	NA
+5960.9452	1.0889	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5962.0399	2.0324	Elend	57	NA
+5964.0734	1.1087	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5965.1916	2.0393	Harfe	36	NA
+5967.2321	0.90994	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+5968.1516	2.0381	Gerücht	72	NA
+5970.1909	0.81529	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5971.0158	2.0394	Theater	27	NA
+5973.0565	1.0856	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+5974.1517	2.0355	Tabak	18	NA
+5976.1885	0.89771	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+5977.0957	2.037	Abend	44	NA
+5979.134	1.616	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5980.7594	2.0384	Banjo	34	NA
+5982.7991	0.9269	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+5983.7356	2.0343	Morgen	47	NA
+5985.7713	2.3867	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5988.1674	2.0407	Wahrheit	60	NA
+5990.2094	0.86067	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5991.0796	2.034	Furcht	52	NA
+5993.115	0.78713	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+5993.9116	2.0408	Begierde	53	NA
+5995.9538	1.1161	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+5997.0792	2.0318	Trompete	38	NA
+5999.1125	1.2054	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+6000.3272	2.0358	Freude	50	NA
+6002.3647	1.7774	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+6004.1511	2.037	Posaune	37	NA
+6006.1898	2.6404	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+6008.8392	2.0403	Limonade	24	NA
+6010.8811	1.3728	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+6012.2632	2.0416	Nummer	61	NA
+6014.3064	2.0596	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6016.3751	2.0346	Brunnen	28	NA
+6018.4113	1.2344	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6019.6549	2.0335	Thema	65	NA
+6021.69	1.5558	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6023.2549	2.032	Glocke	40	NA
+6025.2885	1.2852	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6026.5828	2.036	Schuld	55	NA
+6028.6206	1.4893	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6030.1188	2.0319	Autobahn	31	NA
+6032.1562	1.2081	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6033.3829	2.0331	Saxophon	35	NA
+6035.4178	2.228	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49
+6037.6547	2.0395	Kaffee	23	NA
+6039.696	4.8457	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+6044.5508	2.0339	Trauer	56	NA
+6046.5866	1.2351	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+6047.8305	2.0328	Winter	46	NA
+6049.8653	1.1724	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6051.0465	2.0422	Delphin	17	NA
+6053.0906	1.1151	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6054.2145	2.0329	Nacht	43	NA
+6056.2493	0.93233	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6057.1904	2.0424	Glück	62	NA
+6059.2348	1.4989	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6060.7424	2.0356	Mitleid	68	NA
+6062.78	4.5137	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+6067.3024	2.0329	Ketchup	25	NA
+6069.338	2.8842	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6072.2302	2.0364	Honig	22	NA
+6074.2693	1.009	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6075.2864	2.0323	Vertrag	66	NA
+6077.3217	3.0607	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6080.3901	2.0331	Scham	54	NA
+6082.4259	0.91618	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6083.3501	2.0319	Frühling	45	NA
+6085.3847	0.90133	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6086.294	2.0334	Hotel	29	NA
+6088.3302	1.4598	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6089.798	2.0347	Schinken	19	NA
+6091.8388	1.4425	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6093.286	2.0385	Ironie	64	NA
+6095.3273	1.4707	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6096.806	2.0371	Hygiene	58	NA
+6098.8458	0.56004	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6099.4139	2.0414	Liebe	51	NA
+6101.458	0.98778	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	50
+6102.4538	2.0402	Schlange	14	NA
+6104.4969	0.41319	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6104.918	2.0417	Etikette	69	NA
+6106.9624	0.89146	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6107.8618	2.0433	Satire	71	NA
+6109.9079	0.47386	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6110.3897	2.0344	Moral	67	NA
+6112.4272	0.67492	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6113.1097	2.0332	Epoche	49	NA
+6115.1458	0.86789	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	51
+6116.0216	2.0402	Geige	39	NA
+6118.0646	4.029	Arm-/Handbewegungen,[1=hoch      2=mittel      3=niedrig]	100	49

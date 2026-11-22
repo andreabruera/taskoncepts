@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.00063989	2.0343	Elend	57	NA
+0.00050262	3.6113	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+3.6123	2.0424	Limonade	24	NA
+0.00047464	2.939	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+2.94	2.0349	Winter	46	NA
+0.00054507	1.5542	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+1.5552	2.0336	Epoche	49	NA
+0.00054044	1.7478	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+1.7488	2.0399	Liebe	51	NA
+0.00055656	2.3652	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+2.3662	2.0356	Trompete	38	NA
+0.00058879	0.36976	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.37083	2.0318	Hygiene	58	NA
+0.00061861	0.21325	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.21433	2.0417	Delphin	17	NA
+0.0006555	1.2595	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+1.2605	2.0351	Ausrede	70	NA
+0.00069055	0.57814	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.57914	2.0368	Semester	48	NA
+0.00073863	0.97655	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.97762	2.0381	Autobahn	31	NA
+0.00075021	1.0551	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+1.0562	2.0397	Sommer	42	NA
+0.00087951	2.9417	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+2.9428	2.0323	Furcht	52	NA
+0.00082381	1.941	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+1.942	2.0333	Tiger	11	NA
+0.00086312	0.29221	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.29326	2.0428	Kaugummi	20	NA
+0.00087071	2.5862	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+2.5874	2.041	Thema	65	NA
+0.00093523	3.884	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+3.8851	2.0362	Kirche	30	NA
+0.00093316	1.6972	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+1.6982	2.0373	Problem	59	NA
+0.00096709	0.2723	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.27334	2.036	Kuchen	21	NA
+0.00098673	0.48101	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+0.482	2.0406	Labor	26	NA
+0.0010236	0.6527	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.6537	2.0422	Schinken	19	NA
+0.0010517	1.4671	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+1.4681	2.0409	Satire	71	NA
+0.0011505	0.2524	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.25354	2.0425	Morgen	47	NA
+0.0011361	2.6667	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+2.6677	2.0407	Harfe	36	NA
+0.0011391	0.57256	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.57358	2.0423	Klavier	41	NA
+0.0012463	0.47513	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.47617	2.0331	Trauer	56	NA
+0.0012393	3.0119	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+3.0129	2.042	Betrug	73	NA
+0.0012294	3.0032	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+3.0042	2.0373	Vertrag	66	NA
+0.0012642	0.25611	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+0.25732	2.0387	Ironie	64	NA
+0.0013067	0.19023	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.19134	2.0381	Realität	63	NA
+0.0013573	0.25532	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.25631	2.0397	Kaffee	23	NA
+0.0013542	1.9335	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+1.9345	2.0408	Nummer	61	NA
+0.0014233	2.3324	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+2.3334	2.0418	Posaune	37	NA
+0.0014466	0.49162	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.49284	2.0431	Scham	54	NA
+0.0014942	1.7858	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+1.7869	2.0418	Schuld	55	NA
+0.0015481	0.76335	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.76436	2.0381	Brunnen	28	NA
+0.0017767	1.6152	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+1.6162	2.0393	Abend	44	NA
+0.0015455	3.3419	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+3.3429	2.0318	Theater	27	NA
+0.0016146	1.5895	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+1.5906	2.0383	Falke	13	NA
+0.0016665	0.23888	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.23993	2.0428	Kamel	10	NA
+0.0016866	0.81054	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.81162	2.0442	Gepard	12	NA
+0.0017006	0.32894	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+0.32994	2.0327	Elefant	16	NA
+0.0017811	2.7567	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+2.7577	2.044	Freude	50	NA
+0.0018103	2.0733	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+2.0744	2.0343	Wahrheit	60	NA
+0.0017971	1.123	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+1.124	2.0383	Pinguin	15	NA
+0.0018202	6.4627	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+6.4637	2.0431	Glück	62	NA
+0.0018522	3.1621	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+3.1632	2.0384	Honig	22	NA
+0.0018908	1.807	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+1.808	2.0341	Brücke	33	NA
+0.0025754	2.8192	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+2.8202	2.0348	Tabak	18	NA
+0.0026704	0.64262	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.64366	2.0389	Schlange	14	NA
+0.007396	0.96091	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+0.96197	2.0404	Ketchup	25	NA
+0.0025707	1.4687	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+1.4697	2.0391	Schule	32	NA
+0.0025856	1.0383	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+1.0393	2.0431	Nacht	43	NA
+0.0026349	1.3861	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+1.3872	2.0417	Mitleid	68	NA
+0.005706	1.6754	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+1.6764	2.0323	Moral	67	NA
+0.0025848	1.4931	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49
+1.4941	2.0414	Hotel	29	NA
+0.002587	1.9158	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+1.9168	2.0319	Begierde	53	NA
+0.0026056	3.0293	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+3.0303	2.0379	Frühling	45	NA
+0.0037624	2.3353	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+2.3364	2.0388	Banjo	34	NA
+0.0030208	0.30241	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.30353	2.0325	Glocke	40	NA
+0.0026035	1.8288	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+1.8298	2.0389	Geige	39	NA
+0.0029487	0.84648	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.84764	2.0348	Saxophon	35	NA
+0.0026474	0.62617	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	51
+0.62717	2.042	Gerücht	72	NA
+0.0026513	2.1551	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	50
+2.1562	2.0324	Etikette	69	NA
+0.002604	1.1888	Arm-/Handbewegungen,[1=niedrig      2=mittel      3=hoch]	100	49

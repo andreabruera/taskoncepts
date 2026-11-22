@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.00065848	2.0414	Tabak	18	NA
+0.00053266	1.0599	Schaden,[1=niedrig      2=mittel      3=hoch]	109	51
+1.061	2.0347	Pinguin	15	NA
+0.00047985	1.4584	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+1.4596	2.0359	Labor	26	NA
+0.00051426	2.2732	Schaden,[1=niedrig      2=mittel      3=hoch]	109	51
+2.2742	2.0343	Limonade	24	NA
+0.00057882	1.427	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+1.428	2.0408	Scham	54	NA
+0.00056747	3.0043	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+3.0054	2.0362	Elend	57	NA
+0.00059707	1.7131	Schaden,[1=niedrig      2=mittel      3=hoch]	109	51
+1.7141	2.0346	Begierde	53	NA
+0.00063917	1.0425	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+1.0436	2.0388	Vertrag	66	NA
+0.00066458	2.8304	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.8314	2.0369	Problem	59	NA
+0.00068578	2.0003	Schaden,[1=niedrig      2=mittel      3=hoch]	109	51
+2.0013	2.0406	Moral	67	NA
+0.00081592	3.0366	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+3.0377	2.0439	Nummer	61	NA
+0.00074914	2.9215	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.9225	2.0391	Kaugummi	20	NA
+0.00081449	1.294	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+1.295	2.0406	Trompete	38	NA
+0.00081048	3.9167	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+3.9177	2.0435	Ketchup	25	NA
+0.00085112	2.9057	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+2.9067	2.0415	Mitleid	68	NA
+0.00086714	2.6198	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.6208	2.0343	Geige	39	NA
+0.00094074	0.46698	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+0.46809	2.0412	Gerücht	72	NA
+0.00092513	2.108	Schaden,[1=niedrig      2=mittel      3=hoch]	109	51
+2.109	2.0396	Saxophon	35	NA
+0.00099996	2.8136	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.8148	2.0402	Ironie	64	NA
+0.0010017	3.1809	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+3.1821	2.0327	Morgen	47	NA
+0.0010691	2.2283	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.2294	2.0392	Kirche	30	NA
+0.001062	2.3661	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+2.3672	2.0346	Posaune	37	NA
+0.001105	1.6665	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+1.6675	2.0413	Elefant	16	NA
+0.0011154	4.204	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+4.205	2.0361	Kamel	10	NA
+0.0011445	2.0493	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.0503	2.0317	Klavier	41	NA
+0.0011966	2.2935	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.2947	2.0405	Freude	50	NA
+0.001262	4.2527	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+4.2538	2.0406	Wahrheit	60	NA
+0.0012335	3.6445	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+3.6455	2.0358	Nacht	43	NA
+0.0012687	5.7133	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+5.7144	2.0328	Realität	63	NA
+0.0012931	3.5885	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+3.5895	2.0385	Schlange	14	NA
+0.0013272	2.2229	Schaden,[1=niedrig      2=mittel      3=hoch]	109	51
+2.224	2.0446	Schule	32	NA
+0.0013669	2.5046	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+2.5056	2.0428	Kaffee	23	NA
+0.0013841	5.3062	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+5.3073	2.04	Theater	27	NA
+0.0014233	1.1012	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+1.1023	2.0334	Harfe	36	NA
+0.0014532	0.30819	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+0.30928	2.0401	Etikette	69	NA
+0.0016543	3.8047	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+3.8058	2.0355	Winter	46	NA
+0.0015284	4.3698	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+4.3708	2.0435	Trauer	56	NA
+0.0016529	4.8417	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+4.8427	2.0381	Brücke	33	NA
+0.0016029	3.9671	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+3.9682	2.033	Sommer	42	NA
+0.001602	2.0362	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+2.0372	2.0447	Gepard	12	NA
+0.0016694	3.2405	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+3.2415	2.0399	Abend	44	NA
+0.0018514	1.9494	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+1.9505	2.0382	Schuld	55	NA
+0.0018384	4.2389	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+4.2399	2.0411	Furcht	52	NA
+0.0017387	4.0281	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+4.0292	2.0386	Thema	65	NA
+0.0018309	2.7185	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.7197	2.0419	Delphin	17	NA
+0.0018719	2.0431	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+2.0442	2.0378	Honig	22	NA
+0.0018503	0.59143	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+0.59254	2.0367	Semester	48	NA
+0.0018735	4.3364	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+4.3375	2.0369	Ausrede	70	NA
+0.0030235	3.3923	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+3.3934	2.0347	Kuchen	21	NA
+0.0026946	0.29059	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+0.29162	2.0444	Brunnen	28	NA
+0.0026993	2.9529	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+2.954	2.0343	Epoche	49	NA
+0.0026604	3.2508	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+3.2519	2.0429	Banjo	34	NA
+0.0030612	0.17031	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+0.17149	2.0446	Hygiene	58	NA
+0.0027123	0.32852	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+0.32963	2.033	Glück	62	NA
+0.0028229	5.5721	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+5.5731	2.0407	Tiger	11	NA
+0.0027269	4.6365	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+4.6375	2.0433	Frühling	45	NA
+0.0062815	0.0739	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+0.075068	2.0344	Satire	71	NA
+0.0028006	0.29088	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+0.29194	2.0441	Glocke	40	NA
+0.002738	0.841	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+0.84204	2.0404	Schinken	19	NA
+0.0026999	1.1329	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+1.134	2.0417	Liebe	51	NA
+0.0027266	5.2754	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49
+5.2764	2.0442	Hotel	29	NA
+0.0027479	3.6091	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+3.6101	2.0445	Autobahn	31	NA
+0.0065207	3.9287	Schaden,[1=niedrig      2=mittel      3=hoch]	109	50
+3.9298	2.0447	Betrug	73	NA
+0.0064184	1.2885	Schaden,[1=niedrig      2=mittel      3=hoch]	109	51
+1.2896	2.0327	Falke	13	NA
+0.0027846	1.5885	Schaden,[1=niedrig      2=mittel      3=hoch]	109	49

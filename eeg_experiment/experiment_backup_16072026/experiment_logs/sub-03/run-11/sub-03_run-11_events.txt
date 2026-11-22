@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+6921.8736	2.0405	Liebe	51	NA
+6923.9149	1.2214	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6925.1463	2.0332	Schule	32	NA
+6927.1801	0.35638	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6927.5468	2.0317	Pinguin	15	NA
+6929.5791	0.29304	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6929.8822	2.042	Gepard	12	NA
+6931.9248	0.29928	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6932.2342	2.0357	Klavier	41	NA
+6934.2705	0.32171	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6934.6023	2.0399	Kaffee	23	NA
+6936.6429	0.84516	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+6937.4981	2.0363	Satire	71	NA
+6939.5351	0.769	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6940.314	2.0325	Begierde	53	NA
+6942.3473	0.22879	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6942.5861	2.0395	Kuchen	21	NA
+6944.6264	0.28603	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+6944.926	2.032	Glück	62	NA
+6946.9588	1.3293	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6948.2979	2.0321	Ausrede	70	NA
+6950.3308	1.6535	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6951.994	2.041	Ironie	64	NA
+6954.0359	0.9721	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6955.0178	2.0426	Kamel	10	NA
+6957.0613	0.63466	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6957.7057	2.0336	Tiger	11	NA
+6959.7404	0.38775	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6960.1377	2.0406	Geige	39	NA
+6962.1793	0.42911	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6962.6182	2.0391	Winter	46	NA
+6964.6582	1.0379	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+6965.7058	2.0435	Freude	50	NA
+6967.7504	0.53764	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6968.2976	2.0373	Schlange	14	NA
+6970.336	0.31996	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6970.6657	2.0416	Trompete	38	NA
+6972.7083	0.5076	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6973.2257	2.0405	Vertrag	66	NA
+6975.2673	2.2687	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6977.5456	2.0388	Elend	57	NA
+6979.5855	1.4224	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6981.0174	2.0322	Honig	22	NA
+6983.0508	1.3172	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+6984.3775	2.0441	Theater	27	NA
+6986.4228	2.5051	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6988.9373	2.0424	Epoche	49	NA
+6990.9809	0.7309	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6991.7213	2.0439	Realität	63	NA
+6993.7664	0.4734	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6994.2494	2.0347	Schuld	55	NA
+6996.2854	2.0025	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+6998.2974	2.0384	Abend	44	NA
+7000.3372	0.94271	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+7001.2892	2.032	Falke	13	NA
+7003.3226	0.32537	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7003.6573	2.0363	Gerücht	72	NA
+7005.695	0.65684	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7006.3611	2.038	Ketchup	25	NA
+7008.4005	0.41527	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+7008.8251	2.0397	Nacht	43	NA
+7010.8662	0.4778	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7011.354	2.043	Delphin	17	NA
+7013.3985	0.6174	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7014.0252	2.0374	Banjo	34	NA
+7016.0641	0.35164	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7016.425	2.0366	Saxophon	35	NA
+7018.4631	1.0566	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7019.5289	2.038	Hotel	29	NA
+7021.5685	1.3912	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+7022.9689	2.0367	Moral	67	NA
+7025.0072	0.38459	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7025.4009	2.0437	Kaugummi	20	NA
+7027.4462	0.29751	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+7027.7528	2.0374	Problem	59	NA
+7029.7919	0.33614	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7030.1371	2.0388	Tabak	18	NA
+7032.1776	0.3823	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+7032.569	2.0326	Morgen	47	NA
+7034.6033	0.40453	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+7035.0168	2.0371	Glocke	40	NA
+7037.0557	0.40038	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7037.465	2.0412	Nummer	61	NA
+7039.508	0.45978	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7039.9767	2.0351	Furcht	52	NA
+7042.0137	3.4422	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7045.4647	2.0381	Sommer	42	NA
+7047.5048	0.44696	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+7047.9607	2.0345	Thema	65	NA
+7049.9971	0.45071	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7050.4566	2.0442	Posaune	37	NA
+7052.5028	0.34511	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7052.8566	2.0432	Wahrheit	60	NA
+7054.9018	1.338	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7056.2486	2.0365	Schinken	19	NA
+7058.2871	0.33655	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+7058.6325	2.0383	Kirche	30	NA
+7060.6735	0.91083	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7061.5923	2.0372	Hygiene	58	NA
+7063.6323	0.60819	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	50
+7064.2485	2.0333	Elefant	16	NA
+7066.2845	0.61186	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7066.9043	2.043	Scham	54	NA
+7068.9504	1.2742	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7070.2323	2.0337	Brücke	33	NA
+7072.2687	0.5797	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7072.8564	2.0351	Trauer	56	NA
+7074.8943	1.9699	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7076.8721	2.0444	Harfe	36	NA
+7078.9193	0.37681	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7079.3042	2.038	Etikette	69	NA
+7081.3453	1.3432	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7082.6961	2.0447	Brunnen	28	NA
+7084.7436	0.82449	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7085.576	2.0436	Betrug	73	NA
+7087.6223	1.0657	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7088.696	2.0423	Mitleid	68	NA
+7090.741	0.61903	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7091.368	2.0358	Semester	48	NA
+7093.4067	0.62533	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7094.0399	2.0428	Autobahn	31	NA
+7096.0855	0.45841	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7096.5519	2.0365	Limonade	24	NA
+7098.5911	1.5367	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	49
+7100.1358	2.0377	Labor	26	NA
+7102.1767	2.0795	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51
+7104.2637	2.0414	Frühling	45	NA
+7106.308	1.1638	Geschmack,[1=hoch      2=mittel      3=niedrig]	106	51

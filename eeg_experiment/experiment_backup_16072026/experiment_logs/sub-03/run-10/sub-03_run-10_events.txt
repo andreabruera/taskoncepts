@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+6678.5011	2.034	Satire	71	NA
+6680.5357	2.524	Zeit,[1=niedrig      2=mittel      3=hoch]	112	50
+6683.0699	2.0366	Delphin	17	NA
+6685.1072	0.75249	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6685.8697	2.0357	Winter	46	NA
+6687.9061	0.73749	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6688.6536	2.0373	Elefant	16	NA
+6690.6915	1.3759	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6692.0775	2.0387	Elend	57	NA
+6694.1168	2.2707	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6696.3976	2.0368	Tiger	11	NA
+6698.4351	0.48034	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6698.9254	2.0413	Posaune	37	NA
+6700.9674	0.63609	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6701.6134	2.0321	Morgen	47	NA
+6703.6463	0.98128	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6704.6375	2.0335	Theater	27	NA
+6706.6718	1.5718	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6708.2535	2.0426	Labor	26	NA
+6710.297	2.5864	Zeit,[1=niedrig      2=mittel      3=hoch]	112	50
+6712.8932	2.041	Schinken	19	NA
+6714.935	0.70034	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6715.6452	2.0345	Freude	50	NA
+6717.6806	0.78676	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6718.4771	2.0414	Trompete	38	NA
+6720.5194	1.1799	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6721.7091	2.0347	Nacht	43	NA
+6723.7448	0.86666	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6724.6212	2.0415	Problem	59	NA
+6726.6636	1.9638	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6728.6371	2.0372	Kuchen	21	NA
+6730.6753	0.57606	Zeit,[1=niedrig      2=mittel      3=hoch]	112	50
+6731.2611	2.0388	Geige	39	NA
+6733.301	0.75036	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6734.0609	2.0378	Nummer	61	NA
+6736.0998	0.71958	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6736.829	2.0419	Klavier	41	NA
+6738.872	1.4032	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6740.2848	2.038	Limonade	24	NA
+6742.324	0.6076	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6742.9412	2.0339	Vertrag	66	NA
+6744.9763	1.5231	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6746.5089	2.038	Kirche	30	NA
+6748.5481	0.4951	Zeit,[1=niedrig      2=mittel      3=hoch]	112	50
+6749.0527	2.0398	Gepard	12	NA
+6751.0937	0.95763	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6752.061	2.0436	Brücke	33	NA
+6754.1058	0.48929	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6754.6046	2.0323	Liebe	51	NA
+6756.6382	0.93299	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6757.5806	2.0417	Ketchup	25	NA
+6759.6236	1.7715	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6761.4045	2.0429	Saxophon	35	NA
+6763.4487	0.9544	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6764.4125	2.0337	Kamel	10	NA
+6766.4475	1.0116	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6767.4685	2.0431	Schuld	55	NA
+6769.5129	0.5863	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6770.1087	2.0418	Kaugummi	20	NA
+6772.1518	0.66719	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6772.8283	2.041	Mitleid	68	NA
+6774.8708	1.2923	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6776.1723	2.0423	Glocke	40	NA
+6778.2161	0.85913	Zeit,[1=niedrig      2=mittel      3=hoch]	112	50
+6779.0844	2.0356	Etikette	69	NA
+6781.1216	0.56165	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6781.6924	2.0399	Sommer	42	NA
+6783.7338	0.46138	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6784.2046	2.0333	Semester	48	NA
+6786.2395	0.43556	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6786.6842	2.0327	Abend	44	NA
+6788.7185	0.42059	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6789.1482	2.0344	Betrug	73	NA
+6791.1842	0.38696	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6791.5802	2.0413	Furcht	52	NA
+6793.6232	0.77994	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6794.4128	2.0342	Gerücht	72	NA
+6796.4488	1.9703	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6798.428	2.044	Hotel	29	NA
+6800.4739	0.74528	Zeit,[1=niedrig      2=mittel      3=hoch]	112	50
+6801.2281	2.0428	Hygiene	58	NA
+6803.2726	0.66634	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6803.9479	2.0418	Harfe	36	NA
+6805.9915	1.1956	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6807.196	2.0324	Banjo	34	NA
+6809.2302	1.1568	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6810.3959	2.0445	Trauer	56	NA
+6812.4423	1.8487	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6814.2998	2.0323	Schlange	14	NA
+6816.3341	0.70913	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6817.052	2.039	Scham	54	NA
+6819.0929	0.7501	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6819.8518	2.038	Moral	67	NA
+6821.8918	1.2312	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6823.1317	2.0368	Glück	62	NA
+6825.1705	0.62451	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6825.8037	2.0437	Ausrede	70	NA
+6827.8501	3.5295	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6831.3876	2.0441	Frühling	45	NA
+6833.4344	0.45712	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6833.8995	2.0378	Schule	32	NA
+6835.9404	0.75149	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6836.6995	2.0367	Honig	22	NA
+6838.7389	0.68877	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6839.4357	2.0327	Tabak	18	NA
+6841.4712	0.61237	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6842.0914	2.0425	Autobahn	31	NA
+6844.1366	1.0827	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6845.2274	2.0386	Begierde	53	NA
+6847.2718	1.1187	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6848.3954	2.0426	Pinguin	15	NA
+6850.4407	0.50663	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6850.9554	2.0415	Wahrheit	60	NA
+6852.9996	0.45961	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6853.4673	2.0353	Ironie	64	NA
+6855.5053	0.40214	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6855.9154	2.0395	Thema	65	NA
+6857.9576	1.0377	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6859.0033	2.0436	Realität	63	NA
+6861.0497	1.7696	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6862.8273	2.0447	Epoche	49	NA
+6864.8747	0.80854	Zeit,[1=niedrig      2=mittel      3=hoch]	112	51
+6865.6913	2.0329	Falke	13	NA
+6867.7273	0.4844	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6868.2193	2.0372	Brunnen	28	NA
+6870.2592	1.1359	Zeit,[1=niedrig      2=mittel      3=hoch]	112	49
+6871.403	2.0388	Kaffee	23	NA
+6873.4446	0.9905	Zeit,[1=niedrig      2=mittel      3=hoch]	112	50

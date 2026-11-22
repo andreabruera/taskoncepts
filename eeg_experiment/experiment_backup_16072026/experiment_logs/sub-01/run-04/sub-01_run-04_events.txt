@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+0.00069598	2.0371	Moral	67	NA
+0.00053463	1.5927	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+1.5938	2.035	Sommer	42	NA
+0.00048214	1.6342	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+1.6352	2.0336	Glocke	40	NA
+0.00050954	1.6836	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+1.6846	2.0375	Abend	44	NA
+0.0005306	2.5919	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.5929	2.0355	Nacht	43	NA
+0.00057768	2.5137	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.5147	2.0337	Autobahn	31	NA
+0.00075836	1.8114	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+1.8125	2.0429	Satire	71	NA
+0.00061551	2.2183	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.2193	2.0359	Realität	63	NA
+0.00076718	2.9773	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.9784	2.0365	Vertrag	66	NA
+0.00071643	2.3367	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.3378	2.0374	Kuchen	21	NA
+0.00072159	3.5038	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+3.5049	2.0431	Kaffee	23	NA
+0.00075064	0.76217	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+0.76318	2.0393	Elefant	16	NA
+0.00078269	1.9018	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+1.9028	2.0325	Semester	48	NA
+0.00080542	2.8207	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.8217	2.0332	Liebe	51	NA
+0.00083673	2.036	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.037	2.0449	Klavier	41	NA
+0.00087244	2.1843	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.1856	2.043	Kirche	30	NA
+0.00090879	5.722	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+5.723	2.0374	Limonade	24	NA
+0.00093701	2.3839	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.385	2.0435	Pinguin	15	NA
+0.00099221	1.2896	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+1.2907	2.0449	Tabak	18	NA
+0.0010301	2.8883	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.8894	2.0322	Schlange	14	NA
+0.0010227	3.8449	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+3.8459	2.0353	Frühling	45	NA
+0.0010601	2.9619	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.963	2.0386	Morgen	47	NA
+0.0010829	3.9347	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+3.9359	2.0386	Ausrede	70	NA
+0.0011295	2.9264	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.9274	2.0342	Hygiene	58	NA
+0.0011386	2.179	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.18	2.0352	Winter	46	NA
+0.0011709	3.122	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+3.1231	2.0385	Etikette	69	NA
+0.001208	3.0868	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+3.0878	2.0337	Harfe	36	NA
+0.0012374	2.9155	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.9171	2.0445	Ketchup	25	NA
+0.0012769	2.1682	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.1694	2.0325	Freude	50	NA
+0.0013081	3.4125	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+3.4136	2.0412	Scham	54	NA
+0.0013537	2.7001	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.7012	2.0338	Labor	26	NA
+0.0013842	3.5552	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+3.5563	2.0317	Begierde	53	NA
+0.0013976	2.2935	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.2946	2.0406	Trauer	56	NA
+0.001424	2.3966	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.3978	2.044	Saxophon	35	NA
+0.0014645	3.4171	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+3.4182	2.0365	Mitleid	68	NA
+0.0014767	3.0888	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+3.0898	2.0317	Tiger	11	NA
+0.0015148	2.0695	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.0705	2.0381	Posaune	37	NA
+0.0015325	3.055	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+3.056	2.0389	Kamel	10	NA
+0.0015706	2.4624	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.4636	2.0448	Epoche	49	NA
+0.0016254	1.7522	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+1.7533	2.0355	Delphin	17	NA
+0.0017534	1.7618	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+1.7628	2.0392	Betrug	73	NA
+0.0017042	1.3259	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+1.3269	2.0354	Honig	22	NA
+0.0017349	2.2259	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.227	2.0416	Banjo	34	NA
+0.0017871	2.0437	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.0448	2.0372	Schule	32	NA
+0.0018029	2.4159	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.417	2.0382	Thema	65	NA
+0.0018475	2.079	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.0802	2.0418	Brunnen	28	NA
+0.0019009	2.0594	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+2.0604	2.0349	Gerücht	72	NA
+0.0062167	5.5091	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+5.5102	2.037	Theater	27	NA
+0.0026236	2.0802	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.0812	2.0407	Geige	39	NA
+0.0026107	2.8923	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.8934	2.0415	Elend	57	NA
+0.0029784	2.9559	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.9569	2.0446	Glück	62	NA
+0.0026954	2.3604	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.3615	2.0403	Schuld	55	NA
+0.002598	4.2849	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+4.2859	2.0351	Wahrheit	60	NA
+0.0026589	2.434	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.435	2.0334	Furcht	52	NA
+0.0056851	2.1478	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.1488	2.0397	Ironie	64	NA
+0.0026602	2.6055	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.6065	2.0352	Schinken	19	NA
+0.0026672	4.2262	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+4.2273	2.0405	Hotel	29	NA
+0.002682	1.8846	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+1.8856	2.0364	Nummer	61	NA
+0.003823	5.3928	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+5.3938	2.0334	Falke	13	NA
+0.0030533	2.7558	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+2.7568	2.0448	Problem	59	NA
+0.002701	0.85638	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+0.85741	2.0384	Trompete	38	NA
+0.0030067	2.2229	Erregung,[1=niedrig      2=mittel      3=hoch]	103	51
+2.224	2.0446	Kaugummi	20	NA
+0.0026568	1.0966	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49
+1.0976	2.0381	Gepard	12	NA
+0.0026745	1.8392	Erregung,[1=niedrig      2=mittel      3=hoch]	103	50
+1.8409	2.0412	Brücke	33	NA
+0.0027221	1.4674	Erregung,[1=niedrig      2=mittel      3=hoch]	103	49

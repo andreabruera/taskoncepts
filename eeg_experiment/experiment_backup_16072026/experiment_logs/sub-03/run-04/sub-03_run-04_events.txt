@@ -1,0 +1,130 @@
+run_answers1	run_answers2	run_answers3	run_answers4	run_answers5
+onset	duration	trial_type	trigger	pressed_key
+5012.4609	2.0452	Furcht	52	NA
+5014.5067	3.6163	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5018.1331	2.0373	Epoche	49	NA
+5020.171	2.0799	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5022.2609	2.041	Winter	46	NA
+5024.3026	1.9801	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5026.2928	2.0341	Delphin	17	NA
+5028.3277	1.7793	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5030.117	2.035	Hotel	29	NA
+5032.1527	4.434	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5036.5968	2.0326	Kamel	10	NA
+5038.6301	1.9247	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5040.5648	2.0362	Kirche	30	NA
+5042.6018	2.1928	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5044.8047	2.0346	Ironie	64	NA
+5046.8401	3.6025	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5050.4526	2.0377	Mitleid	68	NA
+5052.4911	4.4955	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5056.9966	2.0377	Pinguin	15	NA
+5059.0351	2.9275	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5061.9725	2.0331	Autobahn	31	NA
+5064.0064	2.4521	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5066.4684	2.0419	Glocke	40	NA
+5068.5112	6.0112	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5074.5323	2.0414	Etikette	69	NA
+5076.5746	3.3559	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5079.9403	2.0444	Ger�cht	72	NA
+5081.9857	1.3047	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5083.3002	2.0431	Vertrag	66	NA
+5085.3443	2.3619	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5087.716	2.0388	Scham	54	NA
+5089.7559	1.4225	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5091.1881	2.032	Ausrede	70	NA
+5093.2212	2.3732	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5095.604	2.0409	Begierde	53	NA
+5097.646	1.8843	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5099.5399	2.0367	Thema	65	NA
+5101.5777	1.5365	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5103.1238	2.038	Br�cke	33	NA
+5105.1629	0.99121	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5106.1638	2.0367	Gl�ck	62	NA
+5108.2017	0.81646	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5109.0277	2.0383	Limonade	24	NA
+5111.0672	1.5829	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5112.6603	2.0442	Posaune	37	NA
+5114.7057	1.0804	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5115.7958	2.0407	Liebe	51	NA
+5117.8378	1.6123	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5119.4596	2.0421	Gepard	12	NA
+5121.5029	1.9472	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5123.4597	2.0404	Abend	44	NA
+5125.5013	2.1728	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5127.6836	2.0414	Schinken	19	NA
+5129.7262	1.6598	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5131.3954	2.0346	Nacht	43	NA
+5133.4314	3.8745	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5137.3153	2.0323	Brunnen	28	NA
+5139.349	2.7249	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5142.0834	2.0356	Satire	71	NA
+5144.1204	1.3777	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5145.5074	2.0368	Schule	32	NA
+5147.5456	1.6322	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5149.1871	2.0356	Nummer	61	NA
+5151.2242	2.6736	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5153.9071	2.0336	Moral	67	NA
+5155.9423	2.2757	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5158.2272	2.0317	Freude	50	NA
+5160.2605	0.8853	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5161.1552	2.0359	Theater	27	NA
+5163.1926	1.8571	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5165.0589	2.0372	Honig	22	NA
+5167.0977	1.1841	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5168.2909	2.0439	Realit�t	63	NA
+5170.3366	1.2893	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5171.6348	2.0319	Trauer	56	NA
+5173.6684	2.9973	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5176.6748	2.0432	Hygiene	58	NA
+5178.7196	1.194	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5179.9229	2.0337	Problem	59	NA
+5181.9583	1.9233	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5183.8907	2.0376	Fr�hling	45	NA
+5185.9301	4.7355	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5190.6746	2.0376	Banjo	34	NA
+5192.7139	1.2476	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5193.9706	2.0336	Trompete	38	NA
+5196.006	1.6678	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5197.6826	2.0399	Saxophon	35	NA
+5199.7244	1.0213	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5200.7546	2.0334	Semester	48	NA
+5202.7899	1.9236	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5204.7223	2.0373	Tiger	11	NA
+5206.7616	1.4719	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5208.2424	2.0358	Morgen	47	NA
+5210.2802	2.4813	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5212.7702	2.0394	Betrug	73	NA
+5214.8117	4.3658	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5219.1862	2.0342	Wahrheit	60	NA
+5221.2224	1.8591	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5223.0901	2.0352	Elend	57	NA
+5225.1276	5.5699	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5230.706	2.0429	Labor	26	NA
+5232.7523	0.60236	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5233.362	2.0391	Geige	39	NA
+5235.4039	1.3102	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5236.722	2.0377	Elefant	16	NA
+5238.7625	0.7674	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5239.5378	2.0341	Kuchen	21	NA
+5241.5746	0.88324	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5242.4658	2.0382	Klavier	41	NA
+5244.5102	2.0791	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5246.5939	2.0417	Schlange	14	NA
+5248.6384	1.1635	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5249.8099	2.0378	Ketchup	25	NA
+5251.8504	0.86332	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5252.7217	2.0314	Sommer	42	NA
+5254.7559	1.0458	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	51
+5255.8097	2.0355	Schuld	55	NA
+5257.8479	4.4177	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5262.2736	2.0355	Kaugummi	20	NA
+5264.312	1.0576	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5265.3782	2.0363	Tabak	18	NA
+5267.4173	0.91238	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5268.3377	2.0355	Falke	13	NA
+5270.3763	0.86552	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
+5271.2496	2.0425	Kaffee	23	NA
+5273.2949	0.85858	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	50
+5274.1614	2.0361	Harfe	36	NA
+5276.2003	0.83326	Bedürfnisse,[1=niedrig      2=mittel      3=hoch]	101	49
